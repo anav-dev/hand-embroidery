@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,41 +17,59 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/small-screens.css">
 </head>
+
 <body>
     <!-- header -->
     <header>
         <a href="index.html"><img src="assets/images/logo.png" alt="Logo of Hand Embroidery" id="logo"></a>
 
-        <i class="fa-solid fa-bars"></i>
+        <i class="fa-solid fa-bars" id="menu-toggle-bars"></i>
 
-        <nav>
-            <i class="fa-solid fa-xmark"></i>
+        <nav id="nav-menu">
+            <i class="fa-solid fa-xmark" id="close-menu-xmark"></i>
             <ul id="menu">
-                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="">About</a></li>
                 <li><a href="">Materials</a></li>
                 <li><a href="">Gallery</a></li>
                 <li><a href="" class="menu-contact-icon"><i class="fa-solid fa-envelope"></i></a></li>
 
-                
+
             </ul>
         </nav>
 
     </header>
- 
+
+
     <!-- main -->
-        <!-- section welcome -->
-        <!-- section featured by -->
-        <!-- section about -->
-        <!-- section quote -->
-        <!-- section materials -->
-        <!-- section cta -->
-        <!-- section gallery -->
-        <!-- section signup -->
-        <!-- section footer -->
+    <!-- section welcome -->
+    <!-- section featured by -->
+    <!-- section about -->
+    <!-- section quote -->
+    <!-- section materials -->
+    <!-- section cta -->
+    <!-- section gallery -->
+    <!-- section signup -->
+    <!-- section footer -->
     <!-- footer -->
 
     <!-- font awesome kit -->
-    <script src="https://kit.fontawesome.com/2fdf17b0b9.js" crossorigin="anonymous"></script> 
+    <script src="https://kit.fontawesome.com/2fdf17b0b9.js" crossorigin="anonymous"></script>
+
+    <!-- javascript for toggle menu -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const menuToggleBars = document.getElementById('menu-toggle-bars');
+            const closeMenuXmark = document.getElementById('close-menu-xmark');
+            const menuLinks = document.getElementById('menu');
+
+            menuToggleBars.addEventListener('click', function() {
+                menuLinks.style.display = "block";
+                closeMenuXmark.style.display = "block";
+                menuToggleBars.style.display = "none";
+            })
+        })
+    </script>
 </body>
+
 </html>

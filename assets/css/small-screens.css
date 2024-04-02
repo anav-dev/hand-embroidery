@@ -1,5 +1,13 @@
 /* phone and table devices (up to 1023px) */
-@media screen and (max-width: 1023px) {}
+@media screen and (max-width: 1023px) {
+     /* toggle menu */
+    #menu {
+        display: none;
+    }
+    #close-menu-xmark {
+        display: none;
+    }
+}
 
 /* phone devices (up to 767px) */
 @media screen and (max-width: 767px) {}
@@ -8,4 +16,10 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {}
     
 /* laptop devices (from 1024px) */
-@media screen and (min-width: 1024px) {}
+@media screen and (min-width: 1024px) {
+    /* header toggle menu */
+    #menu-toggle-bars,
+    #close-menu-xmark {
+        display: none;
+    }
+}
