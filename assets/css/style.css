@@ -63,8 +63,5 @@ header {
     font-weight: bolder;
 }
 #menu a:hover {
-    text-decoration: none;
-    color: #122947cc;
-    border-bottom: 0.5px solid #122947cc;
+    color:#122947cc;
 }
-
