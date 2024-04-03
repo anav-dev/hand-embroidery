@@ -86,6 +86,35 @@ header {
 }
 .dropdown-links {
     display: none;  
+    position: absolute;
+    top: 60px;
+    right: 0;
+    width: 90vw;
+    height: 80vh;
+    padding: 2rem;
+    font-size: 2rem;
+    text-transform: uppercase;
+    opacity: 0.9;
+    /* border: 1px solid #122947cc; */
+}
+.links-list {
+    display: flex;
+    flex-direction: column;  
+    height: 100%;
+}
+.links-list a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 2rem;
+}
+.links-list a:hover {
+    color: inherit;
+    background-color: #f8f8f6;
+    border: none;  
+    transition: 0.3s;
 }
 
 .show {
