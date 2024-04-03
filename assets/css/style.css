@@ -71,23 +71,25 @@ header {
     color:#122947cc;
 }
 
+/* toggle dropdown menu */
+.dropdown-bars {
+    font-size: 2rem;
+    cursor: pointer;
+}
+.dropdown-bars:hover, .dropdown-bars:focus {
+    color: #122947cc;
+}
 
-/* icons small screens */
-#menu-toggle-bars {
-    font-size: 2rem;
-    color:#122947;
-    cursor: pointer;
+.dropdown {
+    position: relative;
+    display: inline-block;
 }
-#close-menu-xmark {
-    position: absolute;
-    top: 5%;
-    right: 10%;
-    font-size: 2rem;
-    cursor: pointer;
-    transition: 0.2s;
+.dropdown-links {
+    display: none;  
 }
-#close-menu-xmark:hover {
-    transform: rotate(90deg);
+
+.show {
+    display: block;
 }
 
 

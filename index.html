@@ -14,16 +14,14 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
     <!-- stylesheet -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/small-screens.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/small-screens.css">
 </head>
 
 <body>
     <!-- header -->
     <header>
         <a href="index.html"><img src="assets/images/logo.png" alt="Logo of Hand Embroidery" id="logo"></a>
-
-        <i class="fa-solid fa-bars" id="menu-toggle-bars"></i>
 
         <nav id="nav-menu">
             <i class="fa-solid fa-xmark" id="close-menu-xmark"></i>
@@ -33,11 +31,19 @@
                 <li><a href="">Materials</a></li>
                 <li><a href="">Gallery</a></li>
                 <li><a href="" class="menu-contact-icon"><i class="fa-solid fa-envelope"></i></a></li>
-
-
             </ul>
+            <!-- toggle dropdown menu -->
+            <div class="dropdown">
+                <i class="fa-solid fa-bars dropdown-bars" onclick="showDropdownMenu()"></i>
+                <div id="menu-dropdown" class="dropdown-links">
+                    <a href="#home">Home</a>
+                    <a href="#about">About</a>
+                    <a href="#materials">Materials</a>
+                    <a href="#gallery">Gallery</a>
+                    <a href="#contact">Contact</a>
+                </div>               
+            </div>
         </nav>
-
     </header>
 
 
@@ -58,23 +64,11 @@
 
     <!-- javascript for toggle menu -->
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const menuToggleBars = document.getElementById('menu-toggle-bars');
-            const closeMenuXmark = document.getElementById('close-menu-xmark');
-            const menuLinks = document.getElementById('menu');
-
-            menuToggleBars.addEventListener('click', function() {
-                menuLinks.style.display = "block";
-                closeMenuXmark.style.display = "block";
-                menuToggleBars.style.display = "none";
-            })
-
-            closeMenuXmark.addEventListener('click', function (){
-                menuLinks.style.display = "none";
-                closeMenuXmark.style.display = "none";
-                menuToggleBars.style.display = "block";
-            })
-        })
+        /* when user clicks the bars icon, dropdown menu appears */
+        function showDropdownMenu() 
+        {
+          document.getElementById("menu-dropdown").classList.toggle("show");
+        }
     </script>
 </body>
 
