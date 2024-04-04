@@ -36,9 +36,35 @@ p {
 }
 
 section {
-    padding: 2rem;
+    padding: 120px 80px;
     margin-bottom: 1rem;
     display: flex;
+}
+
+/* section colors */
+.section-center {
+    text-align: center;
+}
+.section-brown {
+    background: #f1ebea;
+}
+.section-white {
+    background: #fff;
+}
+.section-gray {
+    background: #f8f8f6;
+}
+.section-light-blue {
+    background: #dde9ed;
+}
+.section-dark-blue {
+    background: #122947;
+}
+.section-sand {
+    background: #efd6ca;
+}
+.section-pink {
+    background: #dec6c5;
 }
 
 /* header */
