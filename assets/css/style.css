@@ -17,6 +17,22 @@ body {
     color: rgb(17, 15, 15);
 }
 
+button {
+    position: relative;
+    padding: 1.25rem 1.75rem;
+    margin-top: 1rem;
+    text-align: center;
+    border: none;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px #00000014;
+    color: #122947;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.9px;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Feijoa-Medium', Georgia, 'Times New Roman', Times, serif;
     font-weight: normal;
@@ -30,14 +46,14 @@ html {
 }
 
 p {
-    font-size: 16px;
-    line-height: 1.75px;
+    font-size: 1.75rem;
+    font-weight: 600;
     color:#122947cc;
+    margin-top: 2rem;
 }
 
 section {
     padding: 120px 80px;
-    margin-bottom: 1rem;
     display: flex;
 }
 
@@ -154,6 +170,18 @@ header {
     display: block;
 }
 
+/* welcome section */
+.container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.right {
+    flex: 50%;
+}
+.left {
+    flex: 50%;
+}
 
 
 
