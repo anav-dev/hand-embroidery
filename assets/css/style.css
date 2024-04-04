@@ -10,8 +10,9 @@
 
 body {
     font-family: Cormorant Garamond, serif;
-    font-weight: 500;
+    font-size: 2rem;
     font-style: normal;
+    font-weight: 500;
     line-height: 1.4;
     color: rgb(17, 15, 15);
 }
@@ -32,6 +33,12 @@ p {
     font-size: 16px;
     line-height: 1.75px;
     color:#122947cc;
+}
+
+section {
+    padding: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
 }
 
 /* header */
