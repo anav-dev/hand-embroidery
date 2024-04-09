@@ -74,6 +74,10 @@ section {
     padding: 120px 80px;
 }
 
+.extra-padding-top {
+    padding-top: 6em;
+}
+
 .section-center {
     text-align: center;
 }
@@ -100,19 +104,23 @@ section {
 }
 /* header */
 header {
+    position: fixed;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-between;    
     align-items: center;
-    padding: 0 3rem;
-    height: 18vh;
-    max-height: 18vh;
+    padding: 0 2rem;
+    width: 100%;
+    height: 15vh;
+    max-height: 15vh;
 }
 
 #menu {
     display: flex;
     flex-direction: row;
+    /* align-items: center; */
     list-style-type: none;
+    height: fit-content;
 }
 #menu a {
     display: flex;
