@@ -11,8 +11,12 @@
 body {
     font-family: Cormorant Garamond, serif;
     font-size: 2rem;
+<<<<<<< HEAD
     font-weight: 500;
+=======
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
     font-style: normal;
+    font-weight: 500;
     line-height: 1.4;
     color: rgb(17, 15, 15);
 }
@@ -59,6 +63,47 @@ img {
     object-fit:cover;
     max-height:100%; 
     max-width: 100%;
+<<<<<<< HEAD
+=======
+}
+
+p {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color:#122947cc;
+    margin-top: 2rem;
+}
+
+section {
+    padding: 120px 80px;
+    display: flex;
+}
+
+/* section colors */
+.section-center {
+    text-align: center;
+}
+.section-brown {
+    background: #f1ebea;
+}
+.section-white {
+    background: #fff;
+}
+.section-gray {
+    background: #f8f8f6;
+}
+.section-light-blue {
+    background: #dde9ed;
+}
+.section-dark-blue {
+    background: #122947;
+}
+.section-sand {
+    background: #efd6ca;
+}
+.section-pink {
+    background: #dec6c5;
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
 }
 
 
@@ -148,7 +193,11 @@ header {
     display: inline-block;
 }
 .dropdown-links {
+<<<<<<< HEAD
     display: none;
+=======
+    display: none;  
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
     position: absolute;
     top: 60px;
     right: 0;
@@ -180,14 +229,21 @@ header {
     transition: 0.3s;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
 .show {
     display: block;
 }
 
+<<<<<<< HEAD
 #welcome {
     display: flex;
 }
+=======
+/* welcome section */
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
 .welcome-container {
     display: flex;
     align-items: start;
@@ -197,11 +253,18 @@ header {
     flex: 50%;
 }
 .welcome-left-img {
+<<<<<<< HEAD
     position: relative;
     flex: 50%;    
+=======
+    flex: 50%;
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
 }
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
