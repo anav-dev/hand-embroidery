@@ -19,7 +19,12 @@
     }
      .welcome-left-img {
         padding: 2rem 0 0 0; 
-    }   
+    }  
+    
+    /* featuredby section */
+    .featured div:not(:first-child) {
+        margin-left: 10px;
+    }
 }
 
 /* phone devices (up to 767px) */
@@ -33,8 +38,13 @@
 
     .img-container {
         height: 300px; 
+        width: 100%;   
+    }
+
+    /* featuredby section */
+    .featured-img-container {
+        height: 100px; 
         width: 100%;
-        
     }
 }
 
@@ -59,5 +69,10 @@
     /* welcome section */
     .welcome-right-text {
         padding-right: 2rem;
+    }
+
+    /* featuredby section */
+    .featured div:not(:first-child) {
+        margin-left: 10px;
     }
 }
