@@ -14,15 +14,12 @@
         display: flex;
         flex-direction: column; 
     }
-<<<<<<< HEAD
     .welcome-right-text {
         padding: 0 40px 0 0;
     }
      .welcome-left-img {
         padding: 2rem 0 0 0; 
     }   
-=======
->>>>>>> 0190dcc1e7584b2254af565816c5efb102ff316b
 }
 
 /* phone devices (up to 767px) */
