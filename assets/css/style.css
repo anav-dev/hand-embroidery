@@ -249,3 +249,9 @@ header {
     flex: 50%;  
 }
 
+/* quote section */
+#quote p span {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
