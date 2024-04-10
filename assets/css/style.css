@@ -255,3 +255,20 @@ header {
     font-size: 18px;
     font-weight: bold;
 }
+
+/* materials section */
+.materials-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0 0 0;
+}
+.materials-item {
+    max-width: 300px;
+    text-align: start;
+}
+.materials-item .img-container {
+    height: 180px; 
+    width: 100%;  
+}
+
