@@ -250,6 +250,9 @@ header {
 }
 
 /* quote section */
+#quote p {
+    font-size: 2.125rem;
+}
 #quote p span {
     text-transform: uppercase;
     font-size: 18px;
@@ -270,5 +273,13 @@ header {
 .materials-item .img-container {
     height: 180px; 
     width: 100%;  
+}
+.materials-item h4 {
+    font-size: 1.75rem;
+    padding: 12px 0 0 0;
+}
+.materials-item p {
+    font-size: 1.375rem;
+    padding: 0 40px 0 0;
 }
 

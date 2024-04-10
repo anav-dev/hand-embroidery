@@ -59,6 +59,12 @@
         height: 100px; 
         width: 100%;
     }
+
+    /* quote section */
+    #quote p {
+        font-size: 2rem;
+    }
+
 }
 
 /* tablet devices (from 768px to 1023px) */
