@@ -25,7 +25,7 @@
 
         <nav id="nav-menu">
             <ul id="menu">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#materials">Materials</a></li>
                 <li><a href="#gallery">Gallery</a></li>
@@ -36,7 +36,7 @@
                 <i class="fa-solid fa-bars dropdown-bars" onclick="showDropdownMenu()"></i>
                 <div id="menu-dropdown" class="dropdown-links">
                     <div class="links-list">
-                        <a href="#home">Home</a>
+                        <a href="#">Home</a>
                         <a href="#about">About</a>
                         <a href="#materials">Materials</a>
                         <a href="#gallery">Gallery</a>
@@ -180,7 +180,7 @@
                 </div>
             </div>
             <div class="gallery-text">
-                <h5>contact us</h5>
+                <h5>gallery</h5>
                 <h1>Lorem ipsum dolor sit</h1>
                 <button>Lorem ipsum</button>
             </div>
@@ -205,7 +205,33 @@
         </section>
         <!-- section signup -->
         <section id="contact" class="section-dark-blue">
-            Signup Section
+            <div class="contact-text">
+                <h4>Contact Us</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                
+            </div>
+            <div class="contact-form">
+                <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
+                    <div class="field-name">
+                        <label for="first_name">First Name</label>
+                        <input type="text" name="first_name" id="first_name" class="text-input" required>
+                        <br>
+                    
+                        <label for="last_name">Last Name</label>
+                        <input type="text" name="last_name" id="last_name" class="text-input" required>
+                        <br>
+                    </div>                 
+
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email" class="text-input" required>
+                    <br>
+
+                    <label for="message">Message</label>
+                    <textarea rows="7" cols="60" name="message" form="contact-form"></textarea>
+                    
+                    <button type="submit" class="submit-button">lorem ipsum</button>
+                </form>
+            </div>
         </section>
     </main>
 
