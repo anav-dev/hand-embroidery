@@ -353,17 +353,39 @@ header {
     flex-direction: column;
     font-size: 1.125rem;
     letter-spacing: 0.4px;
-    width: 80%;
+    width: 75%;
+    padding-left: 4rem;
 }
-.field-name {
+.form-field {
+    margin-bottom: 12px;
+}
+.message-field {
     display: flex;
+    flex-direction: column;
 }
+textarea {
+    border-radius: 3px;
+    padding: 16px 20px;
+    margin: 8px 0;
+}
+
+input {
+    width: 100%;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 3px;
+}
+.required:after {
+    content: " *";
+    color:#ef525b;
+}
+
 #contact-form button {
-    width: 25%;
+    width: 30%;
 }
 #contact-form button:hover {
     border: 1px solid #fff;
-    transition: 0.4s;
 }
 
 

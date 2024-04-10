@@ -212,22 +212,21 @@
             </div>
             <div class="contact-form">
                 <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
-                    <div class="field-name">
-                        <label for="first_name">First Name</label>
+                    <div class="form-field">
+                        <label for="first_name" class="required">First Name</label>
                         <input type="text" name="first_name" id="first_name" class="text-input" required>
-                        <br>
+                    </div>
+
+                    <div class="form-field">
+                        <label for="email" class="required">Email</label>
+                        <input type="email" name="email" id="email" class="text-input" required>
+                    </div>
+
+                    <div class="form-field message-field">
+                        <label for="message" class="required">Message</label>
+                        <textarea rows="6" cols="60" name="message" form="contact-form"></textarea>
+                    </div>
                     
-                        <label for="last_name">Last Name</label>
-                        <input type="text" name="last_name" id="last_name" class="text-input" required>
-                        <br>
-                    </div>                 
-
-                    <label for="email">Email</label>
-                    <input type="email" name="email" id="email" class="text-input" required>
-                    <br>
-
-                    <label for="message">Message</label>
-                    <textarea rows="7" cols="60" name="message" form="contact-form"></textarea>
                     
                     <button type="submit" class="submit-button">lorem ipsum</button>
                 </form>
