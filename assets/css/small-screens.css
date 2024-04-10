@@ -95,6 +95,16 @@
     #cta p {
         font-size: 1.75rem;
     }
+
+    /* gallery section */
+    #gallery {
+        display: flex;
+        flex-direction: column;
+    }
+    .gallery-text {
+        padding: 20px 0;
+    }
+    
 }
 
 /* tablet devices (from 768px to 1023px) */
