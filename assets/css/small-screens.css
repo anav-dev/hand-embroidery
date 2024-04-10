@@ -34,6 +34,28 @@
     .about-img {
         padding: 2rem 0 0 0; 
     } 
+
+    /* contact section */
+    #contact {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: start;
+        padding: 0;
+    }
+    #contact-form,
+    .contact-text {
+        padding: 0;
+    }
+    #contact-form {
+        padding-bottom: 60px;
+    }
+    .contact-text {
+        padding: 60px 40px;
+    }
+    #contact-form button {
+        width: 45%;
+    }
 }
 
 /* phone devices (up to 767px) */

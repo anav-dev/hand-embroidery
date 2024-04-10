@@ -356,13 +356,15 @@ header {
     width: 75%;
     padding-left: 4rem;
 }
+
 .form-field {
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 .message-field {
     display: flex;
     flex-direction: column;
 }
+
 textarea {
     border-radius: 3px;
     padding: 16px 20px;
@@ -376,6 +378,7 @@ input {
     border: none;
     border-radius: 3px;
 }
+
 .required:after {
     content: " *";
     color:#ef525b;
