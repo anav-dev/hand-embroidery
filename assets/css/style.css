@@ -64,11 +64,10 @@ html {
 
 .img-container {
     display: flex;
-    justify-content: end;
+    /* justify-content: end; */
     overflow: hidden;
     height: 400px; 
-    width: 100%;
-    
+    width: 100%;   
 }
 img {
     border-radius: 3px;
@@ -215,11 +214,14 @@ header {
     align-items: start;
     width: 100%;
 }
-.welcome-right-text {
+.welcome-text {
     flex: 50%;
 }
-.welcome-left-img {
+.welcome-img {
     flex: 50%;
+}
+.welcome-img {
+    justify-content: end;
 }
 
 /* featured by section */
@@ -232,5 +234,18 @@ header {
     width: 100%;
     display: flex;
     justify-content: center;
+}
+
+/* about section */
+.about-container {
+    display: flex;
+}
+.about-img {
+    flex: 50%;    
+    display: flex;
+    justify-content: start;
+}
+.about-text {
+    flex: 50%;  
 }
 

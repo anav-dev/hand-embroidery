@@ -10,14 +10,14 @@
      }
      
     /* welcome section */
-     .welcome-container {
+    .welcome-container {
         display: flex;
         flex-direction: column; 
     }
-    .welcome-right-text {
+    .welcome-text {
         padding: 0 40px 0 0;
     }
-     .welcome-left-img {
+    .welcome-img {
         padding: 2rem 0 0 0; 
     }  
     
@@ -25,6 +25,15 @@
     .featured div:not(:first-child) {
         margin-left: 10px;
     }
+
+    /* about section */
+    .about-container {
+        display: flex;
+        flex-direction: column-reverse; 
+    }
+    .about-img {
+        padding: 2rem 0 0 0; 
+    } 
 }
 
 /* phone devices (up to 767px) */
@@ -41,6 +50,10 @@
         width: 100%;   
     }
 
+    /* welcome section */
+    .extra-padding {
+        padding-top: 5em;
+    }
     /* featuredby section */
     .featured-img-container {
         height: 100px; 
@@ -67,12 +80,17 @@
 /* laptop devices (from 1024px to 1480px) */
 @media screen and (min-width: 1024px) and (max-width: 1480px) {
     /* welcome section */
-    .welcome-right-text {
+    .welcome-text {
         padding-right: 2rem;
     }
 
     /* featuredby section */
     .featured div:not(:first-child) {
         margin-left: 10px;
+    }
+
+    /* about section */
+    .about-text {
+        padding-left: 2rem;
     }
 }
