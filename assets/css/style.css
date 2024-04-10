@@ -391,4 +391,12 @@ input {
     border: 1px solid #fff;
 }
 
+#success-message {
+    display: none;
+    text-align: center;
+    padding-right: 600px;
+}
+#success-message.show {
+    display: block;
+}
 

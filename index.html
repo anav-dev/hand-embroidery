@@ -205,31 +205,28 @@
         </section>
         <!-- section signup -->
         <section id="contact" class="section-dark-blue">
-            <div class="contact-text">
+            <div class="contact-text" id="contact-text">
                 <h4>Contact Us</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             <div class="contact-form">
-                <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
+                <form id="contact-form" method="post" action="https://formdump.codeinstitute.net" target="_blank">
                     <div class="form-field">
                         <label for="first_name" class="required">First Name</label>
                         <input type="text" name="first_name" id="first_name" class="text-input" required>
                     </div>
-
                     <div class="form-field">
                         <label for="email" class="required">Email</label>
                         <input type="email" name="email" id="email" class="text-input" required>
                     </div>
-
                     <div class="form-field message-field">
                         <label for="message" class="required">Message</label>
                         <textarea rows="6" cols="60" name="message" form="contact-form" placeholder="Enter Your Message..."></textarea>
                     </div>
-                    
-                    
-                    <button type="submit" class="submit-button">lorem ipsum</button>
+                    <button type="submit" class="submit-button" onclick="showSuccessMessage()">lorem ipsum</button>
                 </form>
             </div>
+            <p id="success-message">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>          
         </section>
     </main>
 
@@ -244,6 +241,24 @@
         function showDropdownMenu() 
         {
           document.getElementById("menu-dropdown").classList.toggle("show");
+        }
+    </script>
+
+    <!-- javascript for success message after form is sent -->
+    <script>
+        const form = document.getElementById('contact-form');
+        const successMessage = document.getElementById('success-message');
+        const formText = document.getElementById('contact-text');
+
+        function showSuccessMessage() 
+        {
+            successMessage.classList.toggle("show");
+            form.style.display = "none";
+            formText.style.display = "none";
+
+            setTimeout(function () {
+                form.submit();
+            }, 2000);
         }
     </script>
 </body>
