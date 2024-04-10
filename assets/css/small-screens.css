@@ -1,13 +1,13 @@
 /* phone and table devices (up to 1023px) */
 @media screen and (max-width: 1023px) {
     /* toggle menu */
-     #menu {
+    #menu {
         display: none;
-     }
+    }
      
-     section {
+    section {
         padding: 60px 30px;        
-     }
+    }
      
     /* welcome section */
     .welcome-container {
@@ -96,7 +96,12 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     section {
         padding: 80px 50px; 
-     }
+    }
+
+    /* materials section */
+    .materials-container div {
+        padding-right: 10px;
+    }    
 }
     
 /* laptop devices (from 1024px) */
@@ -124,4 +129,9 @@
     .about-text {
         padding-left: 2rem;
     }
+
+     /* materials section */
+    .materials-container div {
+        padding-right: 10px;
+    }       
 }
