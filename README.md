@@ -2,5 +2,8 @@
 
 # Hand Embroidery
 ---
+Hand Embroidery is a website that offers information and displays images about embroidery and the different materials used for this artcraft. 
+
+Designed to be user-friendly and easy to navigate, is made for users interested in learning the basic concepts of embroidery.
 
 anav-dev
