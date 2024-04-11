@@ -29,10 +29,11 @@ body {
     overflow-x:hidden;
 } /* added to avoid white space on right side of the screen */
 
-button {
-    position: relative;
+button,
+.button {
+    /* position: relative; */
     padding: 1.25rem 1.75rem;
-    margin-top: 1.25rem;
+    /* margin: 10rem; */
     text-align: center;
     border: none;
     background-color: #fff;
@@ -45,7 +46,8 @@ button {
     letter-spacing: 0.9px;
     cursor: pointer;
 }
-button:hover {
+button:hover,
+.button:hover {
     color: #fff;
     background-color: #122947;
     transition: 0.5s;
