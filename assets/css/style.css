@@ -52,6 +52,9 @@ button:hover,
     background-color: #122947;
     transition: 0.5s;
 }
+.button-container {
+    margin-top: 2rem;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Feijoa-Medium', Georgia, 'Times New Roman', Times, serif;
@@ -336,6 +339,19 @@ header {
     font-size: 2.125rem;
 }
 
+.gallery-button {
+    height: 60px;
+}
+.gallery-button .button {
+    color: #fff;
+    background-color: #122947;
+}
+.gallery-button .button:hover {
+    color: #122947;
+    background-color: #fff;
+    transition: 0.5s;
+}
+
 /* contact section */
 #contact {
     display: flex;
@@ -401,7 +417,7 @@ input {
     width: 30%;
 }
 #contact-form button:hover {
-    border: 1px solid #fff;
+    border: 0.1px solid #fff;
 }
 
 #success-message {
