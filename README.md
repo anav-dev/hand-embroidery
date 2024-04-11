@@ -23,11 +23,13 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 - CSS Color Palettes: [SheCodes.io](https://palettes.shecodes.io/)
 - Content: [Wikipedia.org](https://en.wikipedia.org/wiki/Embroidery)
 - Mockup: [Techsini.com](https://techsini.com/multi-mockup/)
+
   
 > Troubleshooting
 - MDN Documentation: [MDN Docs](https://developer.mozilla.org/en-US/) 
 - W3Schools: [W3Schools.com](https://www.w3schools.com/)  
-- StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)   
+- StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)
+  
 
 > Support & Advice
 - Mentor: Alan Bushell
