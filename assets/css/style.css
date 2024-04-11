@@ -193,7 +193,8 @@ header {
 .links-list {
     display: flex;
     flex-direction: column;  
-    height: 100%;
+    justify-content: space-around;
+    height: 85%;
 }
 .links-list a {
     display: flex;
