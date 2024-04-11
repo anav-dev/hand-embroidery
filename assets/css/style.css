@@ -18,6 +18,12 @@ body {
     color: rgb(17, 15, 15);
 }
 
+html,
+body {
+    width:100%;
+    overflow-x:hidden;
+} /* added to avoid white space on right side of the screen */
+
 button {
     position: relative;
     padding: 1.25rem 1.75rem;
@@ -177,11 +183,11 @@ header {
     top: 60px;
     right: 0;
     width: 90vw;
-    height: 80vh;
+    height: 100vh;
     padding: 2rem;
     font-size: 2rem;
     text-transform: uppercase;
-    opacity: 0.9;
+    opacity: 0.95;
     background-color: #ffffff;
 }
 .links-list {
