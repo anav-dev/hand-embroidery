@@ -165,6 +165,13 @@ header {
     color:#122947cc;
 }
 
+.dropdown {
+    background-color: yellow;
+    display: block;
+    box-sizing: unset;
+    /* display: relative;
+    width: 100vh; */
+}
 .dropdown-bars {
     font-size: 2rem;
     cursor: pointer;
@@ -173,28 +180,35 @@ header {
     color: #122947cc;
 }
 
+.fa-bars {
+    position: absolute;
+}
+
 .dropdown {
-    position: relative;
-    display: inline-block;
+    width: 100%;
+    /* position: relative;
+    display: inline-block; */
 }
 .dropdown-links {
     display: none;  
     position: absolute;
-    top: 60px;
+    /* top: 60px; */
+    top: 0;
     right: 0;
-    width: 90vw;
+    width: 100%;
+    /* width: 90vw; */
     height: 100vh;
     padding: 2rem;
     font-size: 2rem;
     text-transform: uppercase;
-    opacity: 0.95;
+    opacity: 0.98;
     background-color: #ffffff;
 }
 .links-list {
     display: flex;
     flex-direction: column;  
-    justify-content: space-around;
-    height: 85%;
+    justify-content: space-evenly;
+    height: 100%;
 }
 .links-list a {
     display: flex;
