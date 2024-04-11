@@ -1,6 +1,4 @@
-/* phone and table devices (up to 1023px) */
 @media screen and (max-width: 1023px) {
-    /* toggle menu */
     #menu {
         display: none;
     }
@@ -9,7 +7,6 @@
         padding: 60px 30px;        
     }
      
-    /* welcome section */
     .welcome-container {
         display: flex;
         flex-direction: column; 
@@ -21,12 +18,10 @@
         padding: 2rem 0 0 0; 
     }  
     
-    /* featuredby section */
     .featured div:not(:first-child) {
         margin-left: 10px;
     }
 
-    /* about section */
     .about-container {
         display: flex;
         flex-direction: column-reverse; 
@@ -35,7 +30,6 @@
         padding: 2rem 0 0 0; 
     } 
 
-    /* contact section */
     #contact {
         display: flex;
         flex-direction: column;
@@ -58,7 +52,6 @@
     }
 }
 
-/* phone devices (up to 767px) */
 @media screen and (max-width: 767px) {
     section h1 {
         font-size: 2.25rem;
@@ -72,23 +65,19 @@
         width: 100%;   
     }
 
-    /* welcome section */
     .extra-padding {
         padding-top: 5em;
     }
 
-    /* featuredby section */
     .featured-img-container {
         height: 100px; 
         width: 100%;
     }
 
-    /* quote section */
     #quote p {
         font-size: 1.75rem;
     }
 
-    /* materials section */
     .materials-container {
         display: flex;
         flex-direction: column;
@@ -113,12 +102,10 @@
         margin: 0;
     } 
 
-    /* cta section */
     #cta p {
         font-size: 1.75rem;
     }
 
-    /* gallery section */
     #gallery {
         display: flex;
         flex-direction: column;
@@ -127,13 +114,11 @@
         padding: 20px 0;
     }
 
-    /* success message */
     #success-message {
         padding-right: 0;
         padding: 4rem;
     }
 
-    /* footer section */
     #footer {
         flex-direction: column;
         margin: 0;
@@ -150,56 +135,45 @@
     }
 }
 
-/* tablet devices (from 768px to 1023px) */
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     section {
         padding: 80px 50px; 
     }
 
-    /* materials section */
     .materials-container div {
         padding-right: 10px;
     }   
 
-    /* success message */
     #success-message {
         padding: 2rem;
         margin-bottom: 2rem; 
     }
 }
     
-/* laptop devices (from 1024px) */
 @media screen and (min-width: 1024px) {
-    /* header toggle menu */
     header .fa-bars,
     header .fa-xmark {
         display: none;
     }
 }
 
-/* laptop devices (from 1024px to 1480px) */
 @media screen and (min-width: 1024px) and (max-width: 1480px) {
-    /* welcome section */
     .welcome-text {
         padding-right: 2rem;
     }
 
-    /* featuredby section */
     .featured div:not(:first-child) {
         margin-left: 10px;
     }
 
-    /* about section */
     .about-text {
         padding-left: 2rem;
     }
 
-     /* materials section */
     .materials-container div {
         padding-right: 10px;
     }  
     
-    /* success message */
     #success-message {
         padding: 0 10rem 0 0;
     }

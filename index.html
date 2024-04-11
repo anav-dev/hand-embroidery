@@ -9,20 +9,16 @@
         content="Hand Embroidery. Website about the handcrafted artistry of embroidery, materials used, and how to start learning this art form.">
     
     <title>Hand Embroidery</title>
-    <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-    <!-- stylesheet -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/small-screens.css">
 </head>
 
 <body>
-    <!-- header -->
     <header class="section-brown">
         <a href="index.html"><img src="assets/images/logo-v2.png" alt="Logo of Hand Embroidery" id="logo"></a>
-
         <nav id="nav-menu">
             <ul id="menu">
                 <li><a href="#">Home</a></li>
@@ -31,7 +27,6 @@
                 <li><a href="#gallery">Gallery</a></li>
                 <li><a href="#contact" class="menu-contact-icon"><i class="fa-solid fa-envelope"></i></a></li>
             </ul>
-            <!-- toggle dropdown menu -->
             <div class="dropdown">
                 <i class="fa-solid fa-bars dropdown-bars" onclick="showDropdownMenu()"></i>
                 <div id="menu-dropdown" class="dropdown-links">
@@ -46,10 +41,7 @@
             </div>
         </nav>
     </header>
-
-    <!-- main -->
     <main>
-        <!-- section welcome -->
         <section id="welcome" class="section-brown extra-padding">
             <div class="welcome-container">
                 <div class="welcome-text">
@@ -66,7 +58,6 @@
                 </div>
             </div>
         </section>
-        <!-- section featured by -->
         <section id="featuredby" class="section-white section-center">
             <h5>featured by</h5>
             <div class="featured">
@@ -87,7 +78,6 @@
                 </div>
             </div>
         </section>
-        <!-- section about -->
         <section id="about" class="section-sand">
             <div class="about-container">
                 <div class="about-img">
@@ -96,19 +86,16 @@
                     </div>
                 </div>
                 <div class="about-text">
-                    <!-- <h5>about us</h5> -->
                     <h1>One Stitch at a Time</h1>
                     <p>Hand Embroidery is the art of decorating fabric or other materials using a needle to stitch thread or yarn. It may also incorporate other materials such as pearls, beads, quills, and sequins.</p>
                     <div class="button-container"><a href="#contact" class="button">contact us</a></div>
                 </div>
             </div>
         </section>
-        <!-- section quote -->
         <section id="quote" class="section-light-blue section-center">
             <h5>popular technique</h5>
             <p>"Depending on time, location and materials available, embroidery could be the domain of a few experts or a widespread, popular technique."<br><span>Wikipedia 2024</span></p>
         </section>
-        <!-- section materials -->
         <section id="materials" class="section-white section-center">
             <h5>materials</h5>
             <h1>Essential Supplies</h1>
@@ -143,14 +130,12 @@
                 </div>
             </div>
         </section>
-        <!-- section cta -->
         <section id="cta" class="section-pink section-center">
             <h5>get in touch</h5>
             <p>If you have any questions, or simply wish to learn more about it,<br>
                 we're here for you. Feel free to reach out to us.</p>
             <a href="#contact" class="button">contact us</a>
         </section>
-        <!-- section gallery -->
         <section id="gallery" class="section-gray">
             <div class="gallery-img">
                 <div class="gallery-row">
@@ -194,7 +179,6 @@
                 </div>
             </div>  
         </section>
-        <!-- section signup -->
         <section id="contact" class="section-dark-blue">
             <div class="contact-text" id="contact-text">
                 <h4>Contact Us</h4>
@@ -220,8 +204,6 @@
             <p id="success-message">You have sent your form correctly, thanks!.</p>          
         </section>
     </main>
-
-    <!-- footer -->
     <footer class="section-gray">
         <section id="footer">
             <div>
@@ -249,19 +231,15 @@
         </div>     
     </footer>
 
-    <!-- font awesome kit -->
     <script src="https://kit.fontawesome.com/2fdf17b0b9.js" crossorigin="anonymous"></script>
 
-    <!-- javascript for toggle menu -->
     <script>
-        /* when user clicks the bars icon, dropdown menu appears */
         function showDropdownMenu() 
         {
           document.getElementById("menu-dropdown").classList.toggle("show");
         }
     </script>
 
-    <!-- javascript for success message after form is sent -->
     <script>
         const form = document.getElementById('contact-form');
         const successMessage = document.getElementById('success-message');
