@@ -8,5 +8,7 @@ Designed to be user-friendly and easy to navigate, is made for users interested 
 
 ---
 
+![Site Mockup](https://github.com/anav-dev/hand-embroidery/blob/main/assets/mockup/site-mockup2.jpg)
+
 
 anav-dev
