@@ -16,7 +16,7 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 
 > References
 - Wireframe: [Wireframepro.mockflow.com](https://wireframepro.mockflow.com/)
-- Logo: [Canva,com](https://www.canva.com/)
+- Logo: [Canva.com](https://www.canva.com/)
 - Favicon: [Favicon.io](https://favicon.io/)
 - Icons: [Fontawesome.com](https://fontawesome.com/)
 - Images: [Pexels](https://www.pexels.com/)
@@ -25,9 +25,9 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 - Mockup: [Techsini.com](https://techsini.com/multi-mockup/)
   
 > Troubleshooting
-- MDN Documentation: https://developer.mozilla.org/en-US/
-- W3Schools https://www.w3schools.com/
-- StackOverflow https://stackoverflow.com/
+- MDN Documentation: [MDN Docs](https://developer.mozilla.org/en-US/) 
+- W3Schools: [W3Schools.com](https://www.w3schools.com/)  
+- StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)   
 
 > Support & Advice
 - Mentor: Alan Bushell
