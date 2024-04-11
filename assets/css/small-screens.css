@@ -132,6 +132,22 @@
         padding-right: 0;
         padding: 4rem;
     }
+
+    /* footer section */
+    #footer {
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+    }
+    #footer div {
+        width: 100%;
+        margin-right: 0;
+        padding-top: 2rem;
+    }
+    #footer p {
+        font-size: 18px;
+        margin: 0 0 12px 0;
+    }
 }
 
 /* tablet devices (from 768px to 1023px) */
