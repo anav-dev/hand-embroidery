@@ -29,8 +29,9 @@
             </ul>
             <div class="dropdown">
                 <i class="fa-solid fa-bars dropdown-bars" onclick="showDropdownMenu()"></i>
+
                 <div id="menu-dropdown" class="dropdown-links">
-                    
+                    <i class="fa-solid fa-xmark" onclick="hideDropdownMenu()"></i>  
                     <div class="links-list">
                         <a href="#">Home</a>
                         <a href="#about">About</a>
@@ -237,6 +238,13 @@
         function showDropdownMenu() 
         {
           document.getElementById("menu-dropdown").classList.toggle("show");
+        }
+    </script>
+
+    <script>
+        function hideDropdownMenu() 
+        {
+        document.getElementById("menu-dropdown").style.display = "none";
         }
     </script>
 

@@ -165,38 +165,36 @@ header {
     color:#122947cc;
 }
 
-.dropdown {
-    background-color: yellow;
-    display: block;
-    box-sizing: unset;
-    /* display: relative;
-    width: 100vh; */
-}
 .dropdown-bars {
     font-size: 2rem;
     cursor: pointer;
 }
-.dropdown-bars:hover, .dropdown-bars:focus {
+.dropdown-bars:hover, 
+.dropdown-bars:focus {
     color: #122947cc;
 }
 
-.fa-bars {
+.fa-xmark {
     position: absolute;
+    top: 5%;
+    right: 7.5%;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.fa-xmark:hover {
+    color: #122947cc;
 }
 
 .dropdown {
     width: 100%;
-    /* position: relative;
-    display: inline-block; */
 }
 .dropdown-links {
     display: none;  
     position: absolute;
-    /* top: 60px; */
     top: 0;
     right: 0;
     width: 100%;
-    /* width: 90vw; */
     height: 100vh;
     padding: 2rem;
     font-size: 2rem;
