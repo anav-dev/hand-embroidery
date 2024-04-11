@@ -19,3 +19,16 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 - Logo: [Canva,com](https://www.canva.com/)
 - Favicon: [Favicon.io](https://favicon.io/)
 - Icons: [Fontawesome.com](https://fontawesome.com/)
+- Images: [Pexels](https://www.pexels.com/)
+- CSS Color Palettes: [SheCodes.io](https://palettes.shecodes.io/)
+- Content: [Wikipedia.org](https://en.wikipedia.org/wiki/Embroidery)
+- Mockup: [Techsini.com](https://techsini.com/multi-mockup/)
+  
+> Troubleshooting
+- MDN Documentation: https://developer.mozilla.org/en-US/
+- W3Schools https://www.w3schools.com/
+- StackOverflow https://stackoverflow.com/
+
+> Support & Advice
+- Mentor: Alan Bushell
+- Code Institute | Slack Community
