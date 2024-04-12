@@ -114,6 +114,12 @@
         padding: 20px 0;
     }
 
+    #contact {
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
     #success-message {
         padding-right: 0;
         padding: 4rem;
