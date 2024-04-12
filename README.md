@@ -19,9 +19,10 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   It also aims to offer an easy-to-navigate experience for the user through its intuitive and user friendly design so that user can have an easy experience while learning.
 - __User Stories__
 
-## Wireframe
-
 ## Design
+- __Wireframe__
+- __Color Palettes__
+- __Imagery__
 
 ## Site Features
 - __Navigation Bar__
