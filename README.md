@@ -1,6 +1,6 @@
 # Hand Embroidery
 
-This website provides information and displays images of hand embroidery basics. Hand embroidery can be used by craft lovers who are looking for more information about embroidery.
+This website provides information and displays images of hand embroidery basics. Hand Embroidery site can be used by craft lovers who are looking for more information about embroidery.
 
 Designed to be responsive, easy to use and navigate, it is intended for people interested in learning more about this art through an enjoyable and appealing visual experience.
 
