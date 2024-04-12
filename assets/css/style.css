@@ -420,6 +420,9 @@ input {
     color:#ef525b;
 }
 
+#contact {
+    display: flex;
+}
 #contact-form button {
     width: 30%;
 }

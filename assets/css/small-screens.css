@@ -33,19 +33,24 @@
     #contact {
         display: flex;
         flex-direction: column;
-        align-items: center;
-        text-align: start;
-        padding: 0;
-    }
-    #contact-form,
-    .contact-text {
-        padding: 0;
     }
     #contact-form {
-        padding-bottom: 60px;
+        padding: 0;
+        padding: 3rem 0 0 0;
+        width: 100%;     
     }
+    .contact-form,
     .contact-text {
-        padding: 60px 40px;
+        padding: 0;       
+    }
+    .form-field {
+        width: 100%;
+    }
+    .form-field input,
+    .form-field textarea {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
     }
     #contact-form button {
         width: 45%;
@@ -118,17 +123,18 @@
         padding: 20px 0;
     }
 
-    #contact,
+    /* #contact,
     .contact-form {
         padding: 0;
         display: flex;
         justify-content: center;
-    }
+    } */
 
-    #contact-form {
+    /* #contact-form {
         /*fix width issue*/
-        width: 60%;
-    }
+        /* background-color: yellow;
+        width: 60%; */
+    /* } */
 
     #success-message {
         padding-right: 0;
