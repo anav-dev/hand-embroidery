@@ -45,7 +45,7 @@ A **neutral color palette** was chosen to evoke a sense of relaxation in the use
 
 A darker blue and reddish colors were used to add contrast to the site to ensure accessibility. 
 
-The content on the Contact section was set to white to allow readability.
+The Contact section content was set to white to allow readability.
 
   ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/colour-scheme.jpg)
 - __Imagery__
