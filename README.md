@@ -17,6 +17,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   As a website, its main goal is to provide reliable content and information about the embroidery art craft via an aesthetically pleasing site.
 
   It also aims to offer an easy-to-navigate experience for the user through its intuitive and user friendly design so that user can have an easy experience while learning.
+  
 - __User Stories__
   
 **As a user I would like to:**
@@ -32,6 +33,11 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
 ## Design
 - __Wireframe__
+
+  The website wireframe was created by using [Wireframepro.mockflow.com](https://wireframepro.mockflow.com/).
+  
+  Click here to see it: [Hand Embroidery Web](https://anav-dev.github.io/hand-embroidery/blob/main/assets/wireframe)
+  
 - __Color Palettes__
 - __Imagery__
 
