@@ -14,7 +14,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 ## User Experience
 - __Objectives__
   
-  As a website, its main goal is to provide reliable content and information about art craft. It also aims to offer an easy-to-navigate experience for the user through its intuitive and user friendly design.
+  As a website, its main goal is to provide reliable content and information about the embroidery art craft. It also aims to offer an easy-to-navigate experience for the user through its intuitive and user friendly design.
 - __User Stories__
 
 ## Wireframe
