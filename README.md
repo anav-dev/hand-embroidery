@@ -9,7 +9,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
 ---
 
-![Site Mockup](https://github.com/anav-dev/hand-embroidery/blob/main/assets/mockup/site-mockup2.jpg)
+![Site Mockup](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/mockup/site-mockup2.jpg)
 
 ## User Experience
 - __Objectives__
@@ -39,7 +39,9 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Click here to check it out: [Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/wireframe/p1-wireframe-hand-embroidery.pdf)
 
   
-- __Color Palettes__
+- __Colour Palettes__
+
+  ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/colour-scheme.jpg)
 - __Imagery__
 
 ## Site Features
