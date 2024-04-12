@@ -1,8 +1,8 @@
 # Hand Embroidery
 
-This website offers information and displays images of hand embroidery basics. 
+This website provides information and displays images of hand embroidery basics. Hand embroidery can be used by craft lovers who are looking for more information about embroidery.
 
-Designed to be responsive, user-friendly, and easy to navigate while learning more about this art.
+Designed to be responsive, easy to use and navigate, it is intended for people interested in learning more about this art through an enjoyable and appealing visual experience.
 
 **Click here to see live site**: [Hand Embroidery Web](https://anav-dev.github.io/hand-embroidery/)
 
