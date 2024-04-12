@@ -23,6 +23,14 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 ## Design
 
 ## Features
+- __Navigation Bar__
+- __About Section__
+- __Materials Section__
+- __Contact Section__
+- __Gallery__
+- __Contact Section__
+- __Footer__
+- __Small Sections: Featured by, Quote, CTA__
 
 ## Accessibility
 
