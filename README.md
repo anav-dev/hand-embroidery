@@ -51,8 +51,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 - __Contact Section__
 - __Footer__
 - __Small Sections: Featured by, Quote, CTA__
-
-## Accessibility
+- __Accessibility__
 
 ## Technology 
 
