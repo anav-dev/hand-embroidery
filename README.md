@@ -36,7 +36,8 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   The website wireframe was created by using [Wireframepro.mockflow.com](https://wireframepro.mockflow.com/).
   
-  Click here to see it: [Hand Embroidery Web](https://anav-dev.github.io/hand-embroidery/blob/main/assets/wireframe)
+  Click here to see it: [Hand Embroidery Wireframe](https://anav-dev.github.io/hand-embroidery/blob/main/assets/wireframe/p1-wireframe-hand-embroidery.pdf)
+
   
 - __Color Palettes__
 - __Imagery__
