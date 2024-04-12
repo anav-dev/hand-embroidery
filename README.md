@@ -40,6 +40,14 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   
 - __Colour Palettes__
+  
+A **neutral color palette** was chosen to evoke a sense of relaxation in the user as well as to add a natural, cozy look to the site as embroidery often brings a homey feel to people. 
+
+Nude colors also limit user saturation and eye irritation, which ultimately contribute to a better user experience. 
+
+A darker blue and reddish colors were used to add contrast to the site to ensure accessibility. 
+
+The content on the Contact section was set to white to allow readability.
 
   ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/colour-scheme.jpg)
 - __Imagery__
