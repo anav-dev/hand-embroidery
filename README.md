@@ -11,7 +11,6 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 
 ![Site Mockup](https://github.com/anav-dev/hand-embroidery/blob/main/assets/mockup/site-mockup2.jpg)
 
---
 ## Purpose
 
 ## User Experience
