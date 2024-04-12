@@ -114,10 +114,11 @@
         padding: 20px 0;
     }
 
-    #contact {
-      padding: 0;
-      display: flex;
-      justify-content: center;
+    #contact,
+    .contact-form {
+        padding: 0;
+        display: flex;
+        justify-content: center;
     }
 
     #success-message {
