@@ -126,7 +126,8 @@
     }
 
     #contact-form {
-        max-width: 60%;
+        /*fix width issue*/
+        width: 60%;
     }
 
     #success-message {
