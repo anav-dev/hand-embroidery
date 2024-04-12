@@ -78,10 +78,14 @@
         font-size: 1.75rem;
     }
 
+    #materials {
+        padding: 60px 0;            
+    }
     .materials-container {
         display: flex;
         flex-direction: column;
-        justify-items: center;
+        justify-items: start;
+        width: 100%;        
     }
     .materials-item:not(:first-child) {
         padding: 24px 0 0 0;
