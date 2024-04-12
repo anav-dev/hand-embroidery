@@ -69,7 +69,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 - Favicon: [Favicon.io](https://favicon.io/)
 - Icons: [Fontawesome.com](https://fontawesome.com/)
 - Images: [Pexels](https://www.pexels.com/)
-- CSS Color Palettes: [SheCodes.io](https://palettes.shecodes.io/)
+- CSS Color Palettes: [SheCodes.io](https://palettes.shecodes.io/) , [Coolors.co](https://coolors.co/) 
 - Content: [Wikipedia.org](https://en.wikipedia.org/wiki/Embroidery)
 - Mockup: [Techsini.com](https://techsini.com/multi-mockup/)
   
