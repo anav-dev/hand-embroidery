@@ -12,27 +12,27 @@ Designed to be responsive, user-friendly, and easy to navigate while learning mo
 ![Site Mockup](https://github.com/anav-dev/hand-embroidery/blob/main/assets/mockup/site-mockup2.jpg)
 
 --
-### Purpose
+## Purpose
 
-### User Experience
+## User Experience
 
 ### User Stories
 
-### Wireframe
+## Wireframe
 
-### Design
+## Design
 
-### Features
+## Features
 
-### Accessibility
+## Accessibility
 
-### Technology 
+## Technology 
 
-### Deployment
+## Deployment
 
-### Testing
+## Testing
 
-### Credits
+## Credits
 
 **References**
 - Wireframe: [Wireframepro.mockflow.com](https://wireframepro.mockflow.com/)
