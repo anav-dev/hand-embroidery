@@ -20,16 +20,16 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   
 - __User Stories__
   
-**As a user I would like to:**
-  >Be able to contact the website owner so that I could resolve any doubts.
+  **As a user I would like to:**
+    >Be able to contact the website owner so that I could resolve any doubts.
   
-  >Be able to see the website on different screen sizes so that I can use different devices.
+    >Be able to see the website on different screen sizes so that I can use different devices.
   
-  >Easily navigate the site so I can find what I need quickly.
+    >Easily navigate the site so I can find what I need quickly.
   
-  >Be able to easily read the content so that I can learn more about embroidery.
+    >Be able to easily read the content so that I can learn more about embroidery.
   
-  >Use a visually appealing website so that I can have a pleasant experience.
+    >Use a visually appealing website so that I can have a pleasant experience.
 
 ## Design
 - __Wireframe__
