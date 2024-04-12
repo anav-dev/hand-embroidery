@@ -12,7 +12,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 ![Site Mockup](https://github.com/anav-dev/hand-embroidery/blob/main/assets/mockup/site-mockup2.jpg)
 
 ## User Experience
-**OBJECTIVES**
+**OBJECTIVES** <br>
 **USER STORIES**
 
 ## Wireframe
