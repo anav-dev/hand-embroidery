@@ -19,7 +19,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   It also aims to offer an easy-to-navigate experience for the user through its intuitive and user friendly design so that user can have an easy experience while learning.
 - __User Stories__
   
-**As a user I would like to**
+**As a user I would like to:**
   >Be able to contact the website owner so that I could resolve any doubts.
   
   >Be able to see the website on different screen sizes so that I can use different devices.
