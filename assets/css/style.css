@@ -410,7 +410,11 @@ input {
     border: none;
     border-radius: 3px;
 }
-
+textarea,
+input {
+    font-family: inherit;
+    font-size: inherit;
+}
 .required:after {
     content: " *";
     color:#ef525b;
