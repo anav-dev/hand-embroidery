@@ -49,7 +49,10 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/colour-scheme.jpg)
 - __Imagery__
-
+  
+  All images that appear on the website are from [Pexels](https://www.pexels.com/) and have been chosen to offer complementary information to the text nearby.
+  Imagery colors try to match the colour palette chosen for the overall site design.
+  
 ## Site Features
 - __Navigation Bar__
 - __About Section__
