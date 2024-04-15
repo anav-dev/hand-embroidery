@@ -62,6 +62,13 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   
   Click here to check it out: [Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg) , [Responsive Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar-responsive.jpg)
 - __Welcome Section__
+
+  This section aims to introduce the user to Hand Embroidery with an appealing layout.
+
+  It includes a title, an informative paragraph, a clickable button enabling users to access further details in the About section, and an image positioned on the right side.
+
+   Click here to check it out: [Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/welcome-section.jpg)
+
 - __About Section__
 - __Materials Section__
 - __Contact Section__
