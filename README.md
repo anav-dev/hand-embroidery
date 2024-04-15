@@ -75,7 +75,17 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   Click here to check it out: [About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-about.jpg)
 - __Materials Section__
+
+  This section presents details about the essential supplies for embroidery in a format featuring four columns, including images, headings, and brief paragraph descriptions.
+
+  Click here to check it out: [Materials Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-materials.jpg)
 - __Contact Section__
+
+  This section allows the user to contact the site owner. The user will be asked to submit their full name, email address, and message.
+
+  After submitting the form, a success message will appear, the form will be hidden, and the user will be directed to a page displaying the returned form data from Code Institute.
+  
+  Click here to check it out: [Contact Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-contact.jpg)
 - __Gallery__
 - __Contact Section__
 - __Footer__
