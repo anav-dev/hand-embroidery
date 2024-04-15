@@ -47,9 +47,18 @@
    
 
 > [!NOTE]
-> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check troubleshooting section to see issues fixed.
+> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check Bugs Troubleshooting section to see issues fixed.
 
 - __Peer-code-review | Slack Community__
+
+    After a peer-code-review request, the following issues were spotted by code peers feedback:
+
+    - Contact form was not fully responsive on small screens.
+    - Footer contact column content had not enough contrast.
+    - Xmark icon on small screens stopeed working after initial use of the bars icon.
+
+> [!NOTE]
+> Check Bugs Troubleshooting section to see issues fixed.
 
 ## Responsiveness Testing
 - __Devices__
