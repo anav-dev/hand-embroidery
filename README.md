@@ -118,8 +118,17 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Q&A chat box: Adding a question and answer box so users can quickly get help with their questions.
   
 - __Accessibility__
+  
 The site was designed with semantic HTML to enhance accessibility. Additionally, alt and aria-labelledby attributes were implemented to support screen reader navigation.
+
+Click here to check code examples: [Alt Attribute Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/alt-at.jpg), [Aria-labelledby Attribute](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/aria-at.jpg)
 ## Technology 
+
+Languages: HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown menu and success message.
+
+Libraries: [Fontawesome v6.5.2](https://fontawesome.com/) for site icons.
+
+Tools: [Codeanywhere IDE](https://codeanywhere.com/) and [VSC](https://code.visualstudio.com/), [Git](https://git-scm.com/) for version control, and [Github](https://github.com/) for hosting.
 
 ## Deployment
 
@@ -141,6 +150,7 @@ The site was designed with semantic HTML to enhance accessibility. Additionally,
 - MDN Documentation: [MDN Docs](https://developer.mozilla.org/en-US/) 
 - W3Schools: [W3Schools.com](https://www.w3schools.com/)  
 - StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)
+- LinkedIn: [LinkedIn.com](https://www.linkedin.com/advice/3/how-do-you-use-aria-label-aria-labelledby-improve)
   
 **Support & Advice**
 - Mentor: Alan Bushell
