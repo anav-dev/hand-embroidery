@@ -123,19 +123,6 @@
         padding: 20px 0;
     }
 
-    /* #contact,
-    .contact-form {
-        padding: 0;
-        display: flex;
-        justify-content: center;
-    } */
-
-    /* #contact-form {
-        /*fix width issue*/
-        /* background-color: yellow;
-        width: 60%; */
-    /* } */
-
     #success-message {
         padding-right: 0;
         padding: 4rem;

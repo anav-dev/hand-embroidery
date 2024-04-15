@@ -46,8 +46,11 @@
     | Re-click on bars icon after clicking on xmark icon  | Displays dropdown menu again, Hides bars icon     | Fail -- dropdown menu is not displayed    |
    
 
+
 > [!NOTE]
 > The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
+
+
 
 - __Peer-code-review Testing | Slack Community__
 
@@ -58,8 +61,12 @@
     3. Xmark icon on small screens stopeed working after initial use of the bars icon.
     4. Dropdown menu extra right side space.
 
+
+
 > [!NOTE]
 > Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
+
+
 
 ## Responsiveness Testing
 
@@ -81,10 +88,18 @@ Additionally, testing has been carried out on the following phone devices: Xiaom
 Testing has taken into account a range of viewport sizes, including desktop, phone, and tablet dimensions.
 
 ## Bugs Troubleshooting
-- __"Submit form with invalid fields" Fail Test__
-- __"Re-click on bars icon" Fail Test__
-- __Dropdown Menu Style Issue__
-- __Contact Form Responsiveness Issue__
+- __CSS Issues: Dropdown Menu Style and Footer content__
+
+    The extra bottom space of the dropdown menu was fixed by applying the flex property 'justify-content: space-evenly' so menu link items will be distributed evenly.
+    
+    On the footer the columns heading were highlighted by increasing the font-weight property.
+
+- __Responsiveness Issue: Contact Form__
+
+    The Contact form fields were overflowing the screen as they were too big to fit into the screen. That issue was fixed by changing the width and padding of the field elements and their container.
+
+- __Fail Test: "Submit form with invalid fields"__
+- __Fail Test: "Re-click on bars icon"__
 - __Accessibility Improvement__
 
 
