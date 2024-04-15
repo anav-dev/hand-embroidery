@@ -61,12 +61,6 @@
 > Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
 
 ## Responsiveness Testing
-
-    The site responsiveness was tested by using
-[Ui.dev](https://ui.dev/amiresponsive) as well as Chrome Google Developer Tools checking how the site react to different screen sizes.
-
-    Check the result here:
-[Site Responsiveness](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/mockup/site-mockup.jpg)
  
 ## Accessibility Test Testing
 
