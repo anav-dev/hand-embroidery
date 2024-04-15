@@ -53,12 +53,12 @@
 
     After a peer-code-review request, the following issues were spotted by code peers feedback:
 
-    - Contact form was not fully responsive on small screens.
-    - Footer contact column content had not enough contrast.
-    - Xmark icon on small screens stopeed working after initial use of the bars icon.
+    1. Contact form was not fully responsive on small screens.
+    2. Footer contact column content had not enough contrast.
+    3. Xmark icon on small screens stopeed working after initial use of the bars icon.
 
 > [!NOTE]
-> Check Bugs Troubleshooting section to see issues fixed.
+> Check [Bugs Troubleshooting](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Bugs) section to see issues fixed.
 
 ## Responsiveness Testing
 - __Devices__
