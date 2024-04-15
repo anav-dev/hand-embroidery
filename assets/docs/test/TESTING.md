@@ -6,12 +6,12 @@
 ---
 
 ## Site Functionality Testing
-- __HTML & CSS Validation__
+- __Automated Testing: HTML & CSS Validation__
 
     HTML and CSS code have been tested and validated by using: [W3C HTML](https://validator.w3.org/) and
 [W3C CSS](https://jigsaw.w3.org/css-validator/). Result screenshoots following these links: [HTML Validation](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/W3C-HTML-Validator.jpg), [CSS Validation](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/W3C-CSS-Validator.jpg)
 
-- __Links, Buttons, Form, Images, Content__
+- __Manual Testing__
 
     In order to ensure the proper functionality of this single-page site, the following aspects have been tested manually: 
 
@@ -47,9 +47,9 @@
    
 
 > [!NOTE]
-> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Troubleshooting) section to see issues fixed.
+> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
 
-- __Peer-code-review | Slack Community__
+- __Peer-code-review Testing | Slack Community__
 
     After a peer-code-review request, the following issues were spotted by code peers feedback:
 
@@ -58,12 +58,15 @@
     3. Xmark icon on small screens stopeed working after initial use of the bars icon.
 
 > [!NOTE]
-> Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Troubleshooting) section to see issues fixed.
+> Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
 
 ## Responsiveness Testing
-- __Devices__
 
-[Ui.dev](https://ui.dev/amiresponsive)
+    The site responsiveness was tested by using
+[Ui.dev](https://ui.dev/amiresponsive) as well as Chrome Google Developer Tools checking how the site react to different screen sizes.
+
+    Check the result here:
+[Site Responsiveness](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/mockup/site-mockup.jpg)
  
 ## Accessibility Test Testing
 
