@@ -1,6 +1,6 @@
 # Hand Embroidery
 
-This website provides information and displays images of hand embroidery basics. Hand Embroidery site can be used by craft lovers who are looking for more information about embroidery.
+This website provides information and displays images of hand embroidery basics. Hand Embroidery is a single-page site that can be used by craft lovers who are looking for more information about embroidery.
 
 Designed to be responsive, easy to use and navigate, it is intended for people interested in learning more about this art through an enjoyable and appealing visual experience.
 
@@ -177,6 +177,8 @@ HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown
 - Colour Palettes: [SheCodes.io](https://palettes.shecodes.io/) , [Coolors.co](https://coolors.co/) 
 - Content: [Wikipedia.org](https://en.wikipedia.org/wiki/Embroidery)
 - Mockup: [Techsini.com](https://techsini.com/multi-mockup/)
+- Chrome for Developers: [Dev Tools](https://developer.chrome.com/docs/devtools/)
+- Github Docs: [Github.com](https://docs.github.com/en)
   
 **Troubleshooting**
 - MDN Documentation: [MDN Docs](https://developer.mozilla.org/en-US/) 
