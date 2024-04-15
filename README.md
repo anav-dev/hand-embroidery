@@ -126,15 +126,15 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
 - __Languages__
   
-HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown menu and success message.
+  HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown menu and success message.
 
 - __Libraries__
   
-[Fontawesome v6.5.2](https://fontawesome.com/) for site icons.
+  [Fontawesome v6.5.2](https://fontawesome.com/) for site icons.
 
 - __Tools__
   
-[Codeanywhere IDE](https://codeanywhere.com/) and [VSC](https://code.visualstudio.com/), [Git](https://git-scm.com/) for version control, and [Github](https://github.com/) for hosting.
+  [Codeanywhere IDE](https://codeanywhere.com/) and [VSC](https://code.visualstudio.com/), [Git](https://git-scm.com/) for version control, and [Github](https://github.com/) for hosting.
 
 ## Deployment
 
@@ -165,6 +165,8 @@ HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown
     5.To disconnect from the repository, type: git remote rm origin.
 
 ## Testing
+
+  Testing carried out to confirm the functionality of this site can be found in this separate file: [Testing.md](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md)
 
 ## Credits
 
