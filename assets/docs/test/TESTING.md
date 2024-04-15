@@ -47,7 +47,7 @@
    
 
 > [!NOTE]
-> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check [Bugs Troubleshooting](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Bugs) section to see issues fixed.
+> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Troubleshooting) section to see issues fixed.
 
 - __Peer-code-review | Slack Community__
 
@@ -58,7 +58,7 @@
     3. Xmark icon on small screens stopeed working after initial use of the bars icon.
 
 > [!NOTE]
-> Check [Bugs Troubleshooting](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Bugs) section to see issues fixed.
+> Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#:~:text=Troubleshooting) section to see issues fixed.
 
 ## Responsiveness Testing
 - __Devices__
@@ -72,7 +72,7 @@
 
 ## Browsers Testing
 
-## Bugs || Troubleshooting
+## Bugs Troubleshooting
 - __"Submit form with invalid fields" Test__
 - __"Re-click on bars icon"__
 - __Contact Form Responsiveness for small screens__
