@@ -188,21 +188,20 @@
             <div class="contact-form">
                 <form id="contact-form" method="post" action="https://formdump.codeinstitute.net" target="_blank">
                     <div class="form-field">
-                        <label for="first_name" class="required">First Name</label>
+                        <label for="first_name" class="required" required>First Name</label>
                         <input type="text" name="first_name" id="first_name" class="text-input" required>
                     </div>
                     <div class="form-field">
-                        <label for="email" class="required">Email</label>
+                        <label for="email" class="required" required>Email</label>
                         <input type="email" name="email" id="email" class="text-input" required>
                     </div>
                     <div class="form-field message-field">
                         <label for="message" class="required">Message</label>
-                        <textarea rows="6" cols="60" name="message" id="message" form="contact-form" placeholder="Enter Your Message..."></textarea>
+                        <textarea rows="6" cols="60" name="message" id="message" form="contact-form" placeholder="Enter Your Message..." required></textarea>
                     </div>
-                    <button type="submit" class="submit-button" onclick="showSuccessMessage()">Send</button>
+                    <button type="submit" class="submit-button">Send</button>
                 </form>
-            </div>
-            <p id="success-message">You have sent your form correctly, thanks!.</p>          
+            </div>          
         </section>
     </main>
     <footer class="section-gray">
@@ -245,23 +244,6 @@
         function hideDropdownMenu() 
         {
         document.getElementById("menu-dropdown").style.display = "none";
-        }
-    </script>
-
-    <script>
-        const form = document.getElementById('contact-form');
-        const successMessage = document.getElementById('success-message');
-        const formText = document.getElementById('contact-text');
-
-        function showSuccessMessage() 
-        {
-            successMessage.classList.toggle("show");
-            form.style.display = "none";
-            formText.style.display = "none";
-
-            setTimeout(function () {
-                form.submit();
-            }, 2000);
         }
     </script>
 </body>

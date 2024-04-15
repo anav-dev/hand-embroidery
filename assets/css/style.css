@@ -427,15 +427,6 @@ input {
     width: 30%;
 }
 
-#success-message {
-    display: none;
-    text-align: center;
-    padding-right: 600px;
-}
-#success-message.show {
-    display: block;
-}
-
 #footer {
     display: flex;
     justify-content: center;

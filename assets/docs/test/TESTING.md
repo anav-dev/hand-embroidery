@@ -38,8 +38,7 @@
     | Click footer About Us links   | Redirect to corresponding section     | Pass    |
     | Click footer Follow Us links    | Redirect to corresponding social media web     | Pass    |
     | Click content typos  | No typing mistakes     | Pass    |
-    | Submit form with valid fields  | Success message is displayed, User redirect to CI form page     | Pass    |
-    | Submit form with invalid fields  | Required field message pops up     | Fail -- form is sent with invalid/empty fields    |
+    | Submit form with valid fields  | User redirect to CI form page     | Pass    |
     | Submit form with invalid fields  | Required field message pops up     | Pass    |
     | Click on bars icon  | Displays dropdown menu, Hides bars icon     | Pass    |
     | Click on xmarks icon  | Hides dropdown menu, shows navbar     | Pass    |
@@ -48,7 +47,7 @@
 
 
 > [!NOTE]
-> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
+> The initial test of the "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
 
 
 
@@ -92,7 +91,7 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
 
     The extra bottom space of the dropdown menu was fixed by applying the flex property 'justify-content: space-evenly' so menu link items will be distributed evenly.
     
-    On the footer the columns heading were highlighted by increasing the font-weight property.
+    On the footer the columns headings were highlighted by increasing the font-weight property.
 
 - __Responsiveness Issue: Contact Form__
 
@@ -100,6 +99,7 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
 
 - __Fail Test: "Submit form with invalid fields"__
 - __Fail Test: "Re-click on bars icon"__
+- __Git Issue:__
 - __Accessibility Improvement__
 
 

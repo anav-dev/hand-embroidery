@@ -1,0 +1,80 @@
+[1mdiff --git a/assets/docs/test/TESTING.md b/assets/docs/test/TESTING.md[m
+[1mindex 208d96e..d25d788 100644[m
+[1m--- a/assets/docs/test/TESTING.md[m
+[1m+++ b/assets/docs/test/TESTING.md[m
+[36m@@ -92,14 +92,18 @@[m [mTesting has taken into account a range of viewport sizes, including desktop, pho[m
+ [m
+     The extra bottom space of the dropdown menu was fixed by applying the flex property 'justify-content: space-evenly' so menu link items will be distributed evenly.[m
+     [m
+[31m-    On the footer the columns heading were highlighted by increasing the font-weight property.[m
+[32m+[m[32m    On the footer the columns headings were highlighted by increasing the font-weight property.[m
+ [m
+ - __Responsiveness Issue: Contact Form__[m
+ [m
+     The Contact form fields were overflowing the screen as they were too big to fit into the screen. That issue was fixed by changing the width and padding of the field elements and their container.[m
+ [m
+ - __Fail Test: "Submit form with invalid fields"__[m
+[32m+[m
+[32m+[m[32m    Issue when adding the button on click function the required html do not work[m
+[32m+[m[41m    [m
+ - __Fail Test: "Re-click on bars icon"__[m
+[32m+[m[32m- __Git Issue:__[m
+ - __Accessibility Improvement__[m
+ [m
+ [m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 23a9b23..a6b0862 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -188,21 +188,20 @@[m
+             <div class="contact-form">[m
+                 <form id="contact-form" method="post" action="https://formdump.codeinstitute.net" target="_blank">[m
+                     <div class="form-field">[m
+[31m-                        <label for="first_name" class="required">First Name</label>[m
+[32m+[m[32m                        <label for="first_name" class="required" required>First Name</label>[m
+                         <input type="text" name="first_name" id="first_name" class="text-input" required>[m
+                     </div>[m
+                     <div class="form-field">[m
+[31m-                        <label for="email" class="required">Email</label>[m
+[32m+[m[32m                        <label for="email" class="required" required>Email</label>[m
+                         <input type="email" name="email" id="email" class="text-input" required>[m
+                     </div>[m
+                     <div class="form-field message-field">[m
+                         <label for="message" class="required">Message</label>[m
+[31m-                        <textarea rows="6" cols="60" name="message" id="message" form="contact-form" placeholder="Enter Your Message..."></textarea>[m
+[32m+[m[32m                        <textarea rows="6" cols="60" name="message" id="message" form="contact-form" placeholder="Enter Your Message..." required></textarea>[m
+                     </div>[m
+[31m-                    <button type="submit" class="submit-button" onclick="showSuccessMessage()">Send</button>[m
+[32m+[m[32m                    <button type="submit" class="submit-button">Send</button>[m
+                 </form>[m
+[31m-            </div>[m
+[31m-            <p id="success-message">You have sent your form correctly, thanks!.</p>          [m
+[32m+[m[32m            </div>[m[41m          [m
+         </section>[m
+     </main>[m
+     <footer class="section-gray">[m
+[36m@@ -247,23 +246,6 @@[m
+         document.getElementById("menu-dropdown").style.display = "none";[m
+         }[m
+     </script>[m
+[31m-[m
+[31m-    <script>[m
+[31m-        const form = document.getElementById('contact-form');[m
+[31m-        const successMessage = document.getElementById('success-message');[m
+[31m-        const formText = document.getElementById('contact-text');[m
+[31m-[m
+[31m-        function showSuccessMessage() [m
+[31m-        {[m
+[31m-            successMessage.classList.toggle("show");[m
+[31m-            form.style.display = "none";[m
+[31m-            formText.style.display = "none";[m
+[31m-[m
+[31m-            setTimeout(function () {[m
+[31m-                form.submit();[m
+[31m-            }, 2000);[m
+[31m-        }[m
+[31m-    </script>[m
+ </body>[m
+ [m
+ </html>[m
+\ No newline at end of file[m
