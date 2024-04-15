@@ -61,18 +61,32 @@
 > Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
 
 ## Responsiveness Testing
+<<<<<<< HEAD
+=======
+
+The site responsiveness was tested by using [Ui.dev](https://ui.dev/amiresponsive) as well as Chrome Google Developer Tools checking how the site react to different screen sizes. Check the result here: [Site Responsiveness](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/mockup/site-mockup.jpg)
+>>>>>>> 717bd081dc04dccdbe5481d855d8a23f91c3cf34
  
 ## Accessibility Test Testing
 
-[Lighthouse](https://developer.chrome.com/docs/lighthouse#:~:text=Lighthouse%20has%20audits%20for%20performance,or%20as%20a%20Node%20module.)
+The following tools have been used to ensure this site meets the required accessibility standars: [Lighthouse](https://developer.chrome.com/docs/lighthouse#:~:text=Lighthouse%20has%20audits%20for%20performance,or%20as%20a%20Node%20module.) and 
 [Wave.org](https://wave.webaim.org/)
 
+Testing results can be found here: [Wave Testing](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/wave-testing.jpg) , [Lighthouse Testing](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/lighthouse-testing.jpg)
+
 ## Browsers Testing
+
+Manually testing has been performed on the following web browsers: Google Chrome, Safari, and Microsoft Edge.
+
+Additionally, testing has been carried out on the following phone devices: Xiaomi lite 12 and samsung s14.
+
+Testing has taken into account a range of viewport sizes, including desktop, phone, and tablet dimensions.
 
 ## Bugs Troubleshooting
 - __"Submit form with invalid fields" Test__
 - __"Re-click on bars icon"__
 - __Contact Form Responsiveness for small screens__
+- __Accessibility Fail Testing__
 
 
 ## Testing Tools
