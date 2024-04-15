@@ -140,17 +140,25 @@ This site is hosted on GitHub Pages, deployed from the main branch.
 **To set up hosting:**
 
 1.Log into GitHub.
+
 2.Choose the repository: [Hand Embroidery Repository](https://github.com/anav-dev/hand-embroidery).
+
 3.Go to settings.
+
 4.Under GitHub Pages, select "main branch" as the source.
+
 5.The project will be deployed automatically, and the page URL will be public.
 
 **For cloning:**
 
 1.Open Terminal.
+
 2.Navigate to the desired directory.
+
 3.Type: git clone https://github.com/anav-dev/hand-embroidery.git
+
 4.Press Enter to clone locally.
+
 5.To disconnect from the repository, type: git remote rm origin.
 
 ## Testing
