@@ -119,11 +119,11 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Click here to check them out: [Featured By Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-featuredby.jpg),  [Quote Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-quote.jpg), [CTA Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-cta.jpg)
 - __Future Features__
   
-  Making a special page for errors, like when a page isn't found (404 error), to help users find their way around more easily.
+  **Error Page:** Making a special page for errors, like when a page isn't found (404 error), to help users find their way around more easily.
 
-  Adding new inner pages with videos and easy-to-follow tutorials to encourage people to try hand embroidery.
+  **Inner Pages:** Adding new inner pages with videos and easy-to-follow tutorials to encourage people to try hand embroidery.
 
-  Adding a question and answer box so users can quickly get help with their questions.
+  **Q&A chat box:** Adding a question and answer box so users can quickly get help with their questions.
   
 - __Accessibility__
 
