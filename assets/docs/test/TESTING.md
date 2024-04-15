@@ -15,20 +15,21 @@
 
     In order to ensure the proper functionality of this single-page site, the following aspects have been tested manually: 
 
-    1. Buttons: Work and have same format.
-    2. Contact Form & Success Message: Work correctly.
-    3. Images: properly displayed.
-    4. Icons: Open correct site in a different tab.
-    5. Links: Redirect to corresponding site/section.
-    6. Paths: Set properly, no broken paths.
+    1. Buttons: work and have same format.
+    2. Contact Form & Success Message: work and are correctly displayed.
+    3. Images: are properly displayed.
+    4. Icons: open correct site in a different tab.
+    5. Links: redirect to corresponding site/section.
+    6. Paths: set properly, no broken paths.
     7. Typos: absence of any typing error.
+    8. Toggle menu: dropdown menu for small screens displays properly.
    
     
     The bellow table shows manual tests performanced:
 
     | Action | Expected Behaviour | Result |
     | :---         |     :---:      |          ---: |
-    | Click Home, About, Materials, Gallery navbar links   | Redirect to corresponding section     | Pass    |
+    | Click all navbar links   | Redirect to corresponding section     | Pass    |
     | Click navbar Contact icon  | Redirect to Contact section     | Pass    |
     | Click logo image   | Redirects to Home page     | Pass    |
     | Click welcome section button  | Redirect to About section     | Pass    |
@@ -36,17 +37,19 @@
     | Click footer social media icons   | Redirect to corresponding social media site     | Pass    |
     | Click footer About Us links   | Redirect to corresponding section     | Pass    |
     | Click footer Follow Us links    | Redirect to corresponding social media web     | Pass    |
-    | Click content typos  | No typos found     | Pass    |
-    | Submit form with invalid fields  | Required field message pops up     | Fail    |
+    | Click content typos  | No typing mistakes     | Pass    |
     | Submit form with valid fields  | Success message is displayed, User redirect to CI form page     | Pass    |
+    | Submit form with invalid fields  | Required field message pops up     | Fail -- form is sent with invalid/empty fields    |
+    | Submit form with invalid fields  | Required field message pops up     | Pass    |
+    | Click on bars icon  | Displays dropdown menu, Hides bars icon     | Pass    |
+    | Click on xmarks icon  | Hides dropdown menu, shows navbar     | Pass    |
+    | Re-click on bars icon after clicking on xmark icon  | Displays dropdown menu again, Hides bars icon     | Fail -- dropdown menu is not displayed    |
    
-   
-  
-
-
 
 > [!NOTE]
-> Note about Contact form fixed required issue.
+> The initial tests of the "Submit form with invalid fields" and "Re-click on bars icon" failed. Check troubleshooting section to see issues fixed.
+
+- __Peer-code-review | Slack Community__
 
 ## Responsiveness Testing
 - __Devices__
@@ -59,6 +62,12 @@
 [Wave.org](https://wave.webaim.org/)
 
 ## Browsers Testing
+
+## Bugs Troubleshooting
+- __"Submit form with invalid fields" Test__
+- __"Re-click on bars icon"__
+- __Contact Form Responsiveness for small screens__
+
 
 ## Testing Tools
 
