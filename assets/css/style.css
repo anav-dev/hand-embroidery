@@ -56,14 +56,15 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 0 24px; 
 }
 h5 {
-    font-size: 12px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 600;
     line-height: 24px;
     text-transform: uppercase;
     margin: 0 0 24px;
     letter-spacing: .12em;    
     text-transform: uppercase;
-    color: #ef525b;    
+    color: #850e14;  
+    filter: contrast(1.75);
 }
 
 html {
@@ -158,6 +159,9 @@ header {
     display: flex;
     align-items: center;
     height: 100%;
+}
+.fa-envelope {
+    margin-left: 12px;
 }
 #menu a:hover {
     color:#122947cc;
@@ -634,6 +638,9 @@ hr {
         padding: 80px 50px; 
     }
 
+    .materials-container {
+        align-items: start;
+    }
     .materials-container div {
         padding-right: 10px;
     }   
@@ -659,6 +666,9 @@ hr {
         padding-left: 2rem;
     }
 
+    .materials-container {
+        align-items: start;
+    }
     .materials-container div {
         padding-right: 10px;
     }    

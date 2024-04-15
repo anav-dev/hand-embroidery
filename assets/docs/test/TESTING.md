@@ -47,7 +47,7 @@
 
 
 > [!NOTE]
-> The initial test of the "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
+> The initial test of the "Re-click on bars icon" failed. Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section for further information.
 
 
 
@@ -59,11 +59,12 @@
     2. Footer contact column content had not enough contrast.
     3. Xmark icon on small screens stopeed working after initial use of the bars icon.
     4. Dropdown menu extra right side space.
+    5. Too many contact buttons so might be redundant for users.
 
 
 
 > [!NOTE]
-> Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
+> All the above issues were sorted out. Further information on: [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section.
 
 
 
@@ -93,14 +94,22 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
     
     On the footer the columns headings were highlighted by increasing the font-weight property.
 
+    The Contact button on the Gallery section was removed as redundant for users.
+
 - __Responsiveness Issue: Contact Form__
 
     The Contact form fields were overflowing the screen as they were too big to fit into the screen. That issue was fixed by changing the width and padding of the field elements and their container.
 
 - __Fail Test: "Submit form with invalid fields"__
 - __Fail Test: "Re-click on bars icon"__
-- __Git Issue:__
+- __Git Issue: Push failed__
 - __Accessibility Improvement__
+    Low Contrast: The contrast between h5 headings and the background colours was very low. To improve accessibility the initial chosen colour, font size and font weight were edited ensuring that users with visual impairments can now read them easily.
+
+    Images Weight: Images were converted to WebP format, as suggested by my mentor and the Lighthouse Testing report, to achieve quicker loading times.
+
+    Empty Navbar Link: The Contact icon link on the navbar had no text, so a describing text that presents the functionality of the link was added to avoid confusion for screen reader users.
+
 
 
 ## Testing Tools

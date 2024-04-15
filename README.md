@@ -36,7 +36,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   The website wireframe was created by using [Wireframepro](https://wireframepro.mockflow.com/).
   
-  Click here to check it out: [Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/wireframe/p1-wireframe-hand-embroidery.pdf)
+  Click here to check it out: [Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/wireframe/p1-wireframe-hand-embroidery.pdf)
 
   
 - __Colour Palettes__
@@ -48,6 +48,12 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   The Contact section content was set to white to allow readability.
 
   ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/colour-scheme.jpg)
+
+
+> [!NOTE]
+> To improve accessibility the initial redish colour (#ef525b) used for h5 was replaced with a darker one (#850e14).
+
+
 - __Imagery__
   
   All images that appear on the website are from [Pexels](https://www.pexels.com/) and have been chosen to offer complementary information to the text nearby.
@@ -119,9 +125,10 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   
 - __Accessibility__
   
-  The site was designed with semantic HTML to enhance accessibility. Additionally, alt and aria-labelledby attributes were implemented to support screen reader navigation.
+  The site was designed with semantic HTML and tested to enhance accessibility. For instance, image elements have 'alt' attributes to support screen reader navigation.
 
-  Click here to check code examples: [Alt Attribute Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/alt-at.jpg), [Aria-labelledby Attribute](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/aria-at.jpg)
+  Click here to check a code example: [Alt Attribute Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/alt-at.jpg)
+
 ## Technology 
 
 - __Languages__
@@ -186,7 +193,6 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 - MDN Documentation: [MDN Docs](https://developer.mozilla.org/en-US/) 
 - W3Schools: [W3Schools.com](https://www.w3schools.com/)  
 - StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)
-- LinkedIn: [LinkedIn.com](https://www.linkedin.com/advice/3/how-do-you-use-aria-label-aria-labelledby-improve)
   
 **Support & Advice**
 - Mentor: Alan Bushell
