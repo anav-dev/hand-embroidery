@@ -55,6 +55,11 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   
 ## Site Features
 - __Navigation Bar__
+
+  The navigation bar provides links (to the Logo, Home, About, Materials, Gallery, Contact sections) within the current document in order to allow users to navigate in a smoother and easier way.
+
+  Its responsive design makes the navigation across different screen devices possible.
+  
 - __About Section__
 - __Materials Section__
 - __Contact Section__
