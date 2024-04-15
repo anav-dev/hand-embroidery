@@ -124,16 +124,34 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Click here to check code examples: [Alt Attribute Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/alt-at.jpg), [Aria-labelledby Attribute](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/aria-at.jpg)
 ## Technology 
 
-#####Languages#####
+- __Languages__
 HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown menu and success message.
 
-Libraries
+- __Libraries__
 [Fontawesome v6.5.2](https://fontawesome.com/) for site icons.
 
-Tools
+- __Tools__
 [Codeanywhere IDE](https://codeanywhere.com/) and [VSC](https://code.visualstudio.com/), [Git](https://git-scm.com/) for version control, and [Github](https://github.com/) for hosting.
 
 ## Deployment
+
+This site is hosted on GitHub Pages, deployed from the main branch. 
+
+**To set up hosting:**
+
+1.Log into GitHub.
+2.Choose the repository: [Hand Embroidery Repository](https://github.com/anav-dev/hand-embroidery).
+3.Go to settings.
+4.Under GitHub Pages, select "main branch" as the source.
+5.The project will be deployed automatically, and the page URL will be public.
+
+**For cloning:**
+
+1.Open Terminal.
+2.Navigate to the desired directory.
+3.Type: git clone https://github.com/anav-dev/hand-embroidery.git
+4.Press Enter to clone locally.
+5.To disconnect from the repository, type: git remote rm origin.
 
 ## Testing
 
