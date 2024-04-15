@@ -47,7 +47,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   The Contact section content was set to white to allow readability.
 
-  ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/colour-scheme.jpg)
+  ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/colour-scheme.jpg)
 - __Imagery__
   
   All images that appear on the website are from [Pexels](https://www.pexels.com/) and have been chosen to offer complementary information to the text nearby.
@@ -60,6 +60,8 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   Its responsive design makes the navigation across different screen devices possible.
   
+  Click here to check it out: [Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-welcome.jpg)
+- __Welcome Section__
 - __About Section__
 - __Materials Section__
 - __Contact Section__
