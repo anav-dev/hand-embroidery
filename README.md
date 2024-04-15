@@ -60,7 +60,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   Its responsive design makes the navigation across different screen devices possible.
   
-  Click here to check it out: [Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg)
+  Click here to check it out: [Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg) , [Responsive Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar-responsive.jpg)
 - __Welcome Section__
 - __About Section__
 - __Materials Section__
