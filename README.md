@@ -73,7 +73,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   Using a similar layout that the preceding section in order to maintain uniformity in design and provide a better user experience, the About section offers a detailed explaination about what Hand Embroidery is, along with a clickable button enabling users to contact the site owner if necessary.
 
-  Click here to check it out: [About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/welcome-about.jpg)
+  Click here to check it out: [About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/about-section.jpg)
 - __Materials Section__
 - __Contact Section__
 - __Gallery__
