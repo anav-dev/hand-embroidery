@@ -125,12 +125,15 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 ## Technology 
 
 - __Languages__
+  
 HTML for site structure, CSS for styling, JavaScript for showing/hiding dropdown menu and success message.
 
 - __Libraries__
+  
 [Fontawesome v6.5.2](https://fontawesome.com/) for site icons.
 
 - __Tools__
+  
 [Codeanywhere IDE](https://codeanywhere.com/) and [VSC](https://code.visualstudio.com/), [Git](https://git-scm.com/) for version control, and [Github](https://github.com/) for hosting.
 
 ## Deployment
