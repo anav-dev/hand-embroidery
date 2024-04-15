@@ -56,16 +56,14 @@
     1. Contact form was not fully responsive on small screens.
     2. Footer contact column content had not enough contrast.
     3. Xmark icon on small screens stopeed working after initial use of the bars icon.
+    4. Dropdown menu extra right side space.
 
 > [!NOTE]
 > Check [Bugs](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/TESTING.md#bugs-troubleshooting) section to see issues fixed.
 
 ## Responsiveness Testing
-<<<<<<< HEAD
-=======
 
 The site responsiveness was tested by using [Ui.dev](https://ui.dev/amiresponsive) as well as Chrome Google Developer Tools checking how the site react to different screen sizes. Check the result here: [Site Responsiveness](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/mockup/site-mockup.jpg)
->>>>>>> 717bd081dc04dccdbe5481d855d8a23f91c3cf34
  
 ## Accessibility Test Testing
 
@@ -83,10 +81,11 @@ Additionally, testing has been carried out on the following phone devices: Xiaom
 Testing has taken into account a range of viewport sizes, including desktop, phone, and tablet dimensions.
 
 ## Bugs Troubleshooting
-- __"Submit form with invalid fields" Test__
-- __"Re-click on bars icon"__
-- __Contact Form Responsiveness for small screens__
-- __Accessibility Fail Testing__
+- __"Submit form with invalid fields" Fail Test__
+- __"Re-click on bars icon" Fail Test__
+- __Dropdown Menu Style Issue__
+- __Contact Form Responsiveness Issue__
+- __Accessibility Improvement__
 
 
 ## Testing Tools
