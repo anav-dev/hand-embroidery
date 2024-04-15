@@ -61,6 +61,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Its responsive design makes the navigation across different screen devices possible.
   
   Click here to check it out: [Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg) , [Responsive Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar-responsive.jpg)
+  
 - __Welcome Section__
 
   This section aims to introduce the user to Hand Embroidery with an appealing layout.
@@ -74,11 +75,13 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Using a similar layout that the preceding section in order to maintain uniformity in design and provide a better user experience, the About section offers a detailed explaination about what Hand Embroidery is, along with a clickable button enabling users to contact the site owner if necessary.
 
   Click here to check it out: [About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-about.jpg)
+  
 - __Materials Section__
 
   This section presents details about the essential supplies for embroidery in a format featuring four columns, including images, headings, and brief paragraph descriptions.
 
   Click here to check it out: [Materials Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-materials.jpg)
+  
 - __Contact Section__
 
   This section allows the user to contact the site owner. The user will be asked to submit their full name, email address, and message.
@@ -86,10 +89,42 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   After submitting the form, a success message will appear, the form will be hidden, and the user will be directed to a page displaying the returned form data from Code Institute.
   
   Click here to check it out: [Contact Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-contact.jpg)
+  
 - __Gallery__
+
+  In this section supporting images are displayed so user can see what Hand Embroidery is about, enhancing user experience with its original and responsive design.
+
+  Click here to check it out: [Gallery Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-gallery.jpg)
+  
 - __Contact Section__
+  
+  This section allows the user to contact the site owner. The user will be asked to submit their full name, email address, and message.
+
+  After submitting the form, a success message will appear, the form will be hidden, and the user will be directed to a page displaying the returned form data from Code Institute.
+  
+  Click here to check it out: [Contact Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-contact.jpg), [Success Message](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/success-message.jpg)
+  
 - __Footer__
+
+  The Footer section provides valuable extra information to the user as they will be able to easily navigate to other sections, find the site location, check the site social media accounts out.
+
+  Click here to check it out: [Footer Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-footer.jpg)
+   
 - __Small Sections: Featured by, Quote, CTA__
+
+  The purpose of these three small sections is to make the content interesting for users and to create stopping points throughout the website where users can take a specific action (like contacting the site owner).
+
+  Breaking the site layout into smaller sections makes it easier for users to understand and move around, especially when viewing content and multimedia.
+
+  Click here to check them out: [Featured By Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-featuredby.jpg),  [Quote Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-quote.jpg), [CTA Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-cta.jpg)
+- __Future Features__
+  
+  Making a special page for errors, like when a page isn't found (404 error), to help users find their way around more easily.
+
+  Adding new inner pages with videos and easy-to-follow tutorials to encourage people to try hand embroidery.
+
+  Adding a question and answer box so users can quickly get help with their questions.
+  
 - __Accessibility__
 
 ## Technology 
