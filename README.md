@@ -20,16 +20,16 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   
 - __User Stories__
   
-**As a user I would like to:**
-  >Be able to contact the website owner so that I could resolve any doubts.
+  **As a user I would like to:**
+    >Be able to contact the website owner so that I could resolve any doubts.
   
-  >Be able to see the website on different screen sizes so that I can use different devices.
+    >Be able to see the website on different screen sizes so that I can use different devices.
   
-  >Easily navigate the site so I can find what I need quickly.
+    >Easily navigate the site so I can find what I need quickly.
   
-  >Be able to easily read the content so that I can learn more about embroidery.
+    >Be able to easily read the content so that I can learn more about embroidery.
   
-  >Use a visually appealing website so that I can have a pleasant experience.
+    >Use a visually appealing website so that I can have a pleasant experience.
 
 ## Design
 - __Wireframe__
@@ -40,12 +40,28 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   
 - __Colour Palettes__
+  
+  A **neutral color palette** was chosen to evoke a sense of relaxation in the user as well as to add a natural, cozy look to the site as embroidery often brings a homey feel to people. Nude colors also limit user saturation and eye irritation, which ultimately contribute to a better user experience. 
 
-  ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/colour-scheme.jpg)
+  A darker blue and reddish colors were used to add contrast to the site to ensure accessibility. 
+
+  The Contact section content was set to white to allow readability.
+
+  ![Colour Scheme](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/colour-scheme.jpg)
 - __Imagery__
-
+  
+  All images that appear on the website are from [Pexels](https://www.pexels.com/) and have been chosen to offer complementary information to the text nearby.
+  Imagery colors try to match the colour palette chosen for the overall site design.
+  
 ## Site Features
 - __Navigation Bar__
+
+  The navigation bar provides links (to the Logo, Home, About, Materials, Gallery, Contact sections) within the current document in order to allow users to navigate in a smoother and easier way.
+
+  Its responsive design makes the navigation across different screen devices possible.
+  
+  Click here to check it out: [Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-welcome.jpg)
+- __Welcome Section__
 - __About Section__
 - __Materials Section__
 - __Contact Section__
@@ -69,7 +85,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 - Favicon: [Favicon.io](https://favicon.io/)
 - Icons: [Fontawesome.com](https://fontawesome.com/)
 - Images: [Pexels](https://www.pexels.com/)
-- CSS Color Palettes: [SheCodes.io](https://palettes.shecodes.io/)
+- Colour Palettes: [SheCodes.io](https://palettes.shecodes.io/) , [Coolors.co](https://coolors.co/) 
 - Content: [Wikipedia.org](https://en.wikipedia.org/wiki/Embroidery)
 - Mockup: [Techsini.com](https://techsini.com/multi-mockup/)
   
