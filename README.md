@@ -282,6 +282,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 - W3Schools: [W3Schools.com](https://www.w3schools.com/)  
 - StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)
 - Codepen: [Codepen.io | Erik Terwan](https://codepen.io/erikterwan/pen/EVzeRP)
+- CodingNepalWeb: [CodingNepalWeb.com](https://www.codingnepalweb.com/),[CodingNepalWeb Youtube](https://www.youtube.com/watch?v=oLgtucwjVII&t=384s)
 - FreeCodeCamp: [FreeCodeCamp | Ihechikara Vincent Abba](https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/)
   
 **Support & Advice**
