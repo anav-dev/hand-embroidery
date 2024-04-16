@@ -36,8 +36,13 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   The website wireframe was created by using [Wireframepro](https://wireframepro.mockflow.com/).
   
-  Click here to check it out: [Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/wireframe/p1-wireframe-hand-embroidery.pdf)
-
+  <details>
+  <summary>Click here to see wireframe bellow</summary>
+  <br>
+    
+  ![Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/wireframe/wireframe.png)
+  
+  </details>
   
 - __Colour Palettes__
   
@@ -66,7 +71,22 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   Its responsive design makes the navigation across different screen devices possible.
   
-  Click here to check it out: [Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg) , [Responsive Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar-responsive.jpg)
+    <details>
+    <summary>Click here to see navbar bellow</summary>
+    <br>
+    
+    ![Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg)
+    <br>
+
+    </details>
+
+    <details>
+    <summary>Click here to see responsive navbar on small screens</summary>
+    <br>
+      
+    ![Responsive Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar-responsive.jpg)
+
+    </details>
   
 - __Welcome Section__
 
@@ -74,25 +94,50 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   It includes a title, an informative paragraph, a clickable button enabling users to access further details in the About section, and an image positioned on the right side.
 
-   Click here to check it out: [Welcome Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-welcome.jpg)
+    <details>
+    <summary>Click here to see Welcome section bellow</summary>
+    <br> 
+    
+    ![Welcome Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-welcome.jpg)
+    </details>
+    
 
 - __About Section__
 
   Using a similar layout that the preceding section in order to maintain uniformity in design and provide a better user experience, the About section offers a detailed explaination about what Hand Embroidery is, along with a clickable button enabling users to contact the site owner if necessary.
-
-  Click here to check it out: [About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-about.jpg)
+  
+    <details>
+    <summary>Click here to see About section bellow</summary>
+    <br>
+    
+    ![About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-about.jpg)
+  
+    </details>
+   
   
 - __Materials Section__
 
   This section presents details about the essential supplies for embroidery in a format featuring four columns, including images, headings, and brief paragraph descriptions.
 
-  Click here to check it out: [Materials Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-materials.jpg)
+    <details>
+    <summary>Click here to see Materials section bellow</summary>
+    <br>
+    
+    ![Materials Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-materials.jpg)
+  
+    </details> 
   
 - __Gallery__
 
   In this section supporting images are displayed so user can see what Hand Embroidery is about, enhancing user experience with its original and responsive design.
 
-  Click here to check it out: [Gallery Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-gallery.jpg)
+    <details>
+    <summary>Click here to see Gallery section bellow</summary>
+    <br> 
+    
+    ![Gallery Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-gallery.jpg)
+  
+    </details> 
   
 - __Contact Section__
   
@@ -100,13 +145,25 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   After submitting the form, a success message will appear, the form will be hidden, and the user will be directed to a page displaying the returned form data from Code Institute.
   
-  Click here to check it out: [Contact Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-contact.jpg), [Success Message](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/success-message.jpg)
+    <details>
+    <summary>Click here to see Contact section bellow</summary>
+    <br> 
+    
+    ![Contact Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-contact.jpg)
+  
+    </details> 
   
 - __Footer__
 
   The Footer section provides valuable extra information to the user as they will be able to easily navigate to other sections, find the site location, check the site social media accounts out.
 
-  Click here to check it out: [Footer Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-footer.jpg)
+    <details>
+    <summary>Click here to see Footer section bellow</summary>
+    <br> 
+    
+    ![Footer Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-footer.jpg)
+  
+    </details>  
    
 - __Small Sections: Featured by, Quote, CTA__
 
@@ -114,7 +171,32 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 
   Breaking the site layout into smaller sections makes it easier for users to understand and move around, especially when viewing content and multimedia.
 
-  Click here to check them out: [Featured By Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-featuredby.jpg),  [Quote Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-quote.jpg), [CTA Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-cta.jpg)
+    <details>
+    <summary>Click here to check Featured by section bellow</summary>
+    <br> 
+    
+    ![Featured By Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-featuredby.jpg)
+    <br>
+    
+    </details> 
+
+    <details>
+    <summary>Click here to see Quote section bellow</summary>
+    <br> 
+
+    ![Quote Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-quote.jpg)
+  
+    </details> 
+
+    <details>
+    <summary>Click here to check CTA section bellow</summary>
+    <br> 
+      
+    ![CTA Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-cta.jpg)
+  
+    </details> 
+  
+    
 - __Future Features__
   
   Error Page: Making a special page for errors, like when a page isn't found (404 error), to help users find their way around more easily.
@@ -127,7 +209,13 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   
   The site was designed with semantic HTML and tested to enhance accessibility. For instance, image elements have 'alt' attributes to support screen reader navigation.
 
-  Click here to check a code example: [Alt Attribute Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/alt-at.jpg)
+  <details>
+    <summary>Click here to check code example:</summary>
+    <br> 
+    
+    ![Alt Attribute Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/alt-at.jpg)
+  
+    </details>  
 
 ## Technology 
 
@@ -193,6 +281,8 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
 - MDN Documentation: [MDN Docs](https://developer.mozilla.org/en-US/) 
 - W3Schools: [W3Schools.com](https://www.w3schools.com/)  
 - StackOverflow: [Stackoverflow.com](https://stackoverflow.com/)
+- Codepen: [Codepen.io | Erik Terwan](https://codepen.io/erikterwan/pen/EVzeRP)
+- FreeCodeCamp: [FreeCodeCamp | Ihechikara Vincent Abba](https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/)
   
 **Support & Advice**
 - Mentor: Alan Bushell
