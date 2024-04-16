@@ -8,18 +8,18 @@
 ## Site Functionality Testing
 - __Automated Testing: HTML & CSS Validation__
 
-HTML and CSS code have been tested and validated by using: [W3C HTML](https://validator.w3.org/) and
-[W3C CSS](https://jigsaw.w3.org/css-validator/). 
+    HTML and CSS code have been tested and validated by using: [W3C HTML](https://validator.w3.org/) and
+    [W3C CSS](https://jigsaw.w3.org/css-validator/). 
 
-<details>
-<summary>Click here to see validation results bellow:</summary>
-<br>
+    <details>
+    <summary>Click here to see validation results below</summary>
+    <br>
 
-![HTML Validation](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/W3C-HTML-Validator.jpg)
+    ![HTML Validation](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/W3C-HTML-Validator.jpg)
 
-![CSS Validation](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/W3C-CSS-Validator.jpg)
+    ![CSS Validation](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/W3C-CSS-Validator.jpg)
 
-</details>
+    </details>
 
 
 - __Manual Testing__
@@ -78,7 +78,7 @@ HTML and CSS code have been tested and validated by using: [W3C HTML](https://va
 The site responsiveness was tested by using [Ui.dev](https://ui.dev/amiresponsive) as well as Chrome Google Developer Tools checking how the site react to different screen sizes.  
 
 <details>
-<summary>Check the result bellow:</summary>
+<summary>Click here to see the result below</summary>
 <br>
 
 ![Site Responsiveness](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/mockup/site-mockup.jpg)
@@ -92,7 +92,7 @@ The following tools have been used to ensure this site meets the required access
 [Wave.org](https://wave.webaim.org/)
 
 <details>
-<summary>Testing results bellow:</summary>
+<summary>Click here to see testing results below</summary>
 <br>
 
 ![Wave Testing](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/wave-testing.jpg)
@@ -129,6 +129,15 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
 
     Empty Navbar Link: The Contact icon link on the navbar had no text, so a describing text that presents the functionality of the link was added to avoid confusion for screen reader users.
 
+    <details>
+    <summary>Click here to see testing results improvement below</summary>
+    <br>
+
+    ![Wave Testing](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/wave-testing2.jpg)
+    ![Lighthouse Testing](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/lighthouse-testing2.jpg)
+
+    </details>
+
 - __Fail Test 11: 'Submit form with invalid fields'__
 
     When the 'onclick' JavaScript event was applied to the button element of the contact form, the validation of the form fields using the 'required' HTML attribute was not functioning.
@@ -144,7 +153,7 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
     When the fa-bars icon in the navbar was clicked after opening the dropdown menu, an unexpected issue arose where the bars stopped to function.
 
     <details>
-    <summary>See old JavaScript code bellow</summary>
+    <summary>Click here to see old JavaScript code below</summary>
     <br>
 
     ![JS code](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/script-dropdown-menu.jpg)
@@ -176,7 +185,7 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
     Reference: [FreeCodeCamp | Ihechikara Vincent Abba](https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/)
 
     <details>
-    <summary>See Git error bellow</summary>
+    <summary>Click here to see Git error below</summary>
     <br>
 
     ![Git Error](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/test/git-error.jpg)
