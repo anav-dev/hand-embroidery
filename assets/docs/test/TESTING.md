@@ -162,11 +162,11 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
     </details>
 
 
-    The issue was fixed by removing the JavaScript code and using pure CSS to create the hamburger menu. Code inspiration and reference: [Codepen.io | Erik Terwan](https://codepen.io/erikterwan/pen/EVzeRP). Then the test was performanced again, check result bellow:
+    The issue was fixed by removing the JavaScript code and using pure CSS to create the hamburger menu. Code inspiration and reference: [Codepen.io | Erik Terwan](https://codepen.io/erikterwan/pen/EVzeRP). Then the test was updated and performanced again, check result bellow:
 
     | Action | Expected Behaviour | Result |
     | :---         |     :---:      |          ---: |
-    | 14. Re-click on bars icon after clicking on xmark icon  | Displays dropdown menu again, Hides bars icon     | Pass  |
+    | 14. Re-click bars icon after initial use  | Displays toggle menu again     | Pass  |
 
 - __Git Issue: Push failed__
 
