@@ -36,7 +36,7 @@
     8. Toggle menu: dropdown menu for small screens displays properly.
    
     
-    The bellow table shows manual tests performanced:
+    The below table shows manual tests performanced:
 
     | Action | Expected Behaviour | Result |
     | :---         |     :---:      |          ---: |
@@ -142,7 +142,7 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
 
     When the 'onclick' JavaScript event was applied to the button element of the contact form, the validation of the form fields using the 'required' HTML attribute was not functioning.
     
-    To streamline the project and for testing purposes, the 'onclick' event was eliminated, and the test was reattempted, check result bellow:
+    To streamline the project and for testing purposes, the 'onclick' event was eliminated, and the test was reattempted, check result below:
 
     | Action | Expected Behaviour | Result |
     | :---         |     :---:      |          ---: |
@@ -162,7 +162,7 @@ Testing has taken into account a range of viewport sizes, including desktop, pho
     </details>
 
 
-    The issue was fixed by removing the JavaScript code and using pure CSS to create the hamburger menu. Code inspiration and reference: [Codepen.io | Erik Terwan](https://codepen.io/erikterwan/pen/EVzeRP). Then the test was updated and performanced again, check result bellow:
+    The issue was fixed by removing the JavaScript code and using pure CSS to create the hamburger menu. Code inspiration and reference: [Codepen.io | Erik Terwan](https://codepen.io/erikterwan/pen/EVzeRP). Then the test was updated and performanced again, check result below:
 
     | Action | Expected Behaviour | Result |
     | :---         |     :---:      |          ---: |

@@ -37,7 +37,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   The website wireframe was created by using [Wireframepro](https://wireframepro.mockflow.com/).
   
   <details>
-  <summary>Click here to see wireframe bellow</summary>
+  <summary>Click here to see wireframe below</summary>
   <br>
     
   ![Site Wireframe](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/wireframe/wireframe.png)
@@ -72,7 +72,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Its responsive design makes the navigation across different screen devices possible.
   
     <details>
-    <summary>Click here to see navbar bellow</summary>
+    <summary>Click here to see navbar below</summary>
     <br>
     
     ![Nav Bar](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/nav-bar.jpg)
@@ -95,7 +95,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   It includes a title, an informative paragraph, a clickable button enabling users to access further details in the About section, and an image positioned on the right side.
 
     <details>
-    <summary>Click here to see Welcome section bellow</summary>
+    <summary>Click here to see Welcome section below</summary>
     <br> 
     
     ![Welcome Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-welcome.jpg)
@@ -107,7 +107,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Using a similar layout that the preceding section in order to maintain uniformity in design and provide a better user experience, the About section offers a detailed explaination about what Hand Embroidery is, along with a clickable button enabling users to contact the site owner if necessary.
   
     <details>
-    <summary>Click here to see About section bellow</summary>
+    <summary>Click here to see About section below</summary>
     <br>
     
     ![About Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-about.jpg)
@@ -120,7 +120,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   This section presents details about the essential supplies for embroidery in a format featuring four columns, including images, headings, and brief paragraph descriptions.
 
     <details>
-    <summary>Click here to see Materials section bellow</summary>
+    <summary>Click here to see Materials section below</summary>
     <br>
     
     ![Materials Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-materials.jpg)
@@ -132,7 +132,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   In this section supporting images are displayed so user can see what Hand Embroidery is about, enhancing user experience with its original and responsive design.
 
     <details>
-    <summary>Click here to see Gallery section bellow</summary>
+    <summary>Click here to see Gallery section below</summary>
     <br> 
     
     ![Gallery Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-gallery.jpg)
@@ -146,7 +146,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   After submitting the form, a success message will appear, the form will be hidden, and the user will be directed to a page displaying the returned form data from Code Institute.
   
     <details>
-    <summary>Click here to see Contact section bellow</summary>
+    <summary>Click here to see Contact section below</summary>
     <br> 
     
     ![Contact Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-contact.jpg)
@@ -158,7 +158,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   The Footer section provides valuable extra information to the user as they will be able to easily navigate to other sections, find the site location, check the site social media accounts out.
 
     <details>
-    <summary>Click here to see Footer section bellow</summary>
+    <summary>Click here to see Footer section below</summary>
     <br> 
     
     ![Footer Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-footer.jpg)
@@ -172,7 +172,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
   Breaking the site layout into smaller sections makes it easier for users to understand and move around, especially when viewing content and multimedia.
 
     <details>
-    <summary>Click here to check Featured by section bellow</summary>
+    <summary>Click here to check Featured by section below</summary>
     <br> 
     
     ![Featured By Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-featuredby.jpg)
@@ -181,7 +181,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
     </details> 
 
     <details>
-    <summary>Click here to see Quote section bellow</summary>
+    <summary>Click here to see Quote section below</summary>
     <br> 
 
     ![Quote Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-quote.jpg)
@@ -189,7 +189,7 @@ Designed to be responsive, easy to use and navigate, it is intended for people i
     </details> 
 
     <details>
-    <summary>Click here to check CTA section bellow</summary>
+    <summary>Click here to check CTA section below</summary>
     <br> 
       
     ![CTA Section](https://github.com/anav-dev/hand-embroidery/blob/main/assets/docs/features/section-cta.jpg)
